@@ -1,0 +1,38 @@
+.GreenhouseCart__Main {
+  color: var(--font-color-shadow);
+  font-weight: 500;
+  font-size: 20px;
+  transition: all .3s;
+  border: 1px solid var(--font-color-shadow);
+  border-radius: 5px;
+  padding: 10px 15px;
+  cursor: pointer;
+  min-width: 250px;
+  width: 150px;
+}
+
+.GreenhouseCart__Main:hover {
+  box-shadow: 5px 0px var(--primary-color);
+  border: 1px solid var(--primary-color);
+  transform: translate(-5px, 0);
+}
+
+.GreenhouseCart__Name {
+  font-size: 25px;
+  text-align: center;
+}
+
+.GreenhouseCart__Info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 15px 0;
+}
+
+.GreenhouseCart__Info * + * {
+  margin-left: 40px;
+}
+
+.GreenhouseCart__CropName {
+  text-align: end;
+}

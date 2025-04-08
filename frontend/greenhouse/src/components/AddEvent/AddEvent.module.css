@@ -1,0 +1,12 @@
+.AddEvent__FormInput + .AddEvent__FormInput {
+  margin-top: 20px;
+}
+
+.AddEvent__SendFormBtn {
+  margin-top: 50px;
+  padding: 0px 40px;
+}
+
+.AddEvent__Main {
+  padding: 40px 0;
+}

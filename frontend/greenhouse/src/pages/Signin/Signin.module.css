@@ -1,0 +1,55 @@
+.Signin__Main {
+  font-family: var(--font-family);
+  font-weight: 600;
+  font-size: 20px;
+  color: var(--font-color-black);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 100px 0;
+}
+
+.Signin__Wrapper {
+  text-align: center;
+}
+
+.Signin__PageName {
+  color: var(--primary-color);
+  margin-bottom: 50px;
+}
+
+.Signin__HeaderText {
+  font-size: 38px;
+  line-height: 30px;
+}
+
+.Signin__Form {
+  margin-top: 150px;
+  font-size: 30px;
+}
+
+.Signin__Form * + *{
+  margin-top: 25px;
+}
+
+.Signin__From_Name {
+  margin-bottom: 50px;
+}
+
+.Signin__BtnForm {
+  margin-top: 30px;
+  padding: 0 120px;
+}
+
+.Signin__Links {
+  margin-top: 30px;
+  color: var(--font-color-shadow);
+}
+
+.Signin__Links_SignIn {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-weight: 400;
+  margin-top: 15px;
+}

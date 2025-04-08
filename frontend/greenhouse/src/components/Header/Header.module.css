@@ -1,0 +1,35 @@
+.Header__Main {
+  font-family: var(--font-family);
+  font-weight: 600;
+  font-size: 20px;
+  color: var(--font-color-black);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: var(--primary-color);
+  padding: 20px 0;
+}
+
+.Header__LeftPlug {
+  width: 350px;
+}
+
+.Header__UserActions {
+  width: 350px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Header__UserActions * + * {
+  margin-left: 10px;
+}
+
+.Header__UserActions_ProfileLink {
+  color: #fff;
+}
+
+.Header__UserActions_Profile {
+  display: flex;
+  align-items: center;
+}

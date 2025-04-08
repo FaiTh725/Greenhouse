@@ -1,0 +1,43 @@
+.Report__Main {
+  font-family: var(--font-family);
+  font-weight: 600;
+  font-size: 20px;
+  color: var(--font-color-shadow);
+  padding-bottom: 200px;
+}
+
+.Report__Header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 450px;
+}
+
+.Report__HeaderText {
+  font-size: 30px;
+}
+
+.Report__Reports {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.Report__ResourceReport {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+}
+
+.Report__ReportName {
+  margin-left: 20px;
+  margin-bottom: 30px;
+}
+
+.Profile__Reports_GetReportBtn {
+  margin-left: 20px;
+  height: 100%;
+}
+
+.Report__ResourceReport__Input {
+  width: 300px;
+}

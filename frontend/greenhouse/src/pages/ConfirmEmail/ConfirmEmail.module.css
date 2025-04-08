@@ -1,0 +1,89 @@
+.ConfirmEmail__Main {
+  font-family: var(--font-family);
+  font-weight: 600;
+  font-size: 20px;
+  color: var(--font-color-black);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.ConfirmEmail__HeaderSection {
+  background: linear-gradient(var(--primary-color), 70%, #fff);
+  color: #fff;
+  padding-top: 100px;
+  padding-bottom: 150px;
+}
+
+.ConfirmEmail__Wrapper {
+  width: 100%;
+  text-align: center;
+}
+
+.ConfirmEmail__HeaderText {
+  font-size: 30px;
+}
+
+.ConfirmEmail__Description {
+  margin-top: 30px;
+}
+
+.ConfirmEmail__Body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.ConfirmEmail__PageName {
+  color: var(--primary-color);
+  margin-top: 150px;
+}
+
+.ConfirmEmail__Form {
+  margin-top: 100px;
+  margin-bottom: 30px;
+  min-width: 400px;
+}
+
+.ConfirmEmail__Links {
+  margin-top: 30px;
+}
+
+.ConfirmEmail__Links_Link {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-weight: 400;
+  color: var(--font-color-shadow);
+  margin-top: 15px;
+}
+
+.ConfirmEmail__Links_Link * + * {
+  margin-left: 30px;
+}
+
+.ConfirmEmail__ConfirmCode {
+  margin-top: 20px;
+  transition: all .3s;
+}
+
+.ConfirmEmail__ConfirmCodeHide {
+  opacity: 0;
+  height: 0px;
+}
+
+.ConfirmEmail__Repeat {
+  margin-top: 50px;
+  font-weight: 400;
+  color: var(--font-color-shadow);
+  transition: all .3s;
+}
+
+.ConfirmEmail__RepeatHiden {
+  opacity: 0;
+}
+
+.ConfirmEmail__Repeat p{
+  margin-bottom: 15px;
+}

@@ -1,0 +1,1430 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7129E930-66E8-4852-A54D-A01B3FC3F096}|Greenhouse.API.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.api\\controllers\\greenhousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7129E930-66E8-4852-A54D-A01B3FC3F096}|Greenhouse.API.csproj|solutionrelative:controllers\\greenhousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\queries\\greenhouse\\getgreenhousecompletedevents\\getgreenhousecompletedeventsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\queries\\greenhouse\\getgreenhouseevents\\getgreenhouseeventsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\queries\\greenhouse\\getgreenhousecompletedevents\\getgreenhousecompletedeventshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\queries\\greenhouse\\getgreenhouseevents\\getgreenhouseeventshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\queries\\greenhouse\\getgreenhouseeventsbyday\\getgreenhouseeventsbydayhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D826CDA-603B-46BB-9ACE-D9A8DF2D250E}|..\\Greenhouse.Domain\\Greenhouse.Domain.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.domain\\repositorires\\iagricultiraleventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D826CDA-603B-46BB-9ACE-D9A8DF2D250E}|..\\Greenhouse.Domain\\Greenhouse.Domain.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.domain\\repositorires\\igreenhouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4435250-F4B1-4076-B86D-A79CFB54CA26}|..\\Greenhouse.Dal\\Greenhouse.Dal.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.dal\\repositories\\greenhouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7129E930-66E8-4852-A54D-A01B3FC3F096}|Greenhouse.API.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.api\\controllers\\greenhouseeventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7129E930-66E8-4852-A54D-A01B3FC3F096}|Greenhouse.API.csproj|solutionrelative:controllers\\greenhouseeventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7129E930-66E8-4852-A54D-A01B3FC3F096}|Greenhouse.API.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.api\\controllers\\eventresourcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7129E930-66E8-4852-A54D-A01B3FC3F096}|Greenhouse.API.csproj|solutionrelative:controllers\\eventresourcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\consumers\\eventresource\\spendeventresourcesconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7129E930-66E8-4852-A54D-A01B3FC3F096}|Greenhouse.API.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7129E930-66E8-4852-A54D-A01B3FC3F096}|Greenhouse.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D039735-A606-4F88-BAD1-717B868115DD}|..\\Greenhouse.Infastructure\\Greenhouse.Infastructure.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.infastructure\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D039735-A606-4F88-BAD1-717B868115DD}|..\\Greenhouse.Infastructure\\Greenhouse.Infastructure.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.infastructure\\configurations\\rabbitmqconf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4435250-F4B1-4076-B86D-A79CFB54CA26}|..\\Greenhouse.Dal\\Greenhouse.Dal.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.dal\\repositories\\agricultiraleventresourcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4435250-F4B1-4076-B86D-A79CFB54CA26}|..\\Greenhouse.Dal\\Greenhouse.Dal.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.dal\\repositories\\agricultiraleventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926DAC6C-4456-46AD-A51C-7D99537A1975}|..\\Greenhouse.Contracts\\Greenhouse.Contracts.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.contracts\\resource\\eventresourcespendingresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\queries\\eventresource\\geteventresources\\geteventresourcesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\queries\\eventresource\\geteventresources\\geteventresourceshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\consumers\\harvestresource\\createharvestresourceconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926DAC6C-4456-46AD-A51C-7D99537A1975}|..\\Greenhouse.Contracts\\Greenhouse.Contracts.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.contracts\\resource\\resourcespending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926DAC6C-4456-46AD-A51C-7D99537A1975}|..\\Greenhouse.Contracts\\Greenhouse.Contracts.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.contracts\\resource\\eventresourcespendingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926DAC6C-4456-46AD-A51C-7D99537A1975}|..\\Greenhouse.Contracts\\Greenhouse.Contracts.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.contracts\\emploees\\createemployeresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\contracts\\eventresource\\eventresourceamount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\contracts\\event\\eventresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\contracts\\eventresource\\eventresourceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926DAC6C-4456-46AD-A51C-7D99537A1975}|..\\Greenhouse.Contracts\\Greenhouse.Contracts.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.contracts\\greenhouse.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\queries\\event\\geteventofemploye\\geteventofemployehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\queries\\event\\geteventofemploye\\geteventofemployequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7129E930-66E8-4852-A54D-A01B3FC3F096}|Greenhouse.API.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.api\\extentions\\appextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7129E930-66E8-4852-A54D-A01B3FC3F096}|Greenhouse.API.csproj|solutionrelative:extentions\\appextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7129E930-66E8-4852-A54D-A01B3FC3F096}|Greenhouse.API.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7129E930-66E8-4852-A54D-A01B3FC3F096}|Greenhouse.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7129E930-66E8-4852-A54D-A01B3FC3F096}|Greenhouse.API.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.api\\middlewares\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7129E930-66E8-4852-A54D-A01B3FC3F096}|Greenhouse.API.csproj|solutionrelative:middlewares\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D039735-A606-4F88-BAD1-717B868115DD}|..\\Greenhouse.Infastructure\\Greenhouse.Infastructure.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.infastructure\\configurations\\jwtconf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\commands\\event\\completeevent\\completeeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D826CDA-603B-46BB-9ACE-D9A8DF2D250E}|..\\Greenhouse.Domain\\Greenhouse.Domain.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.domain\\entities\\agricultiralevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\commands\\event\\completeevent\\completeeventcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D826CDA-603B-46BB-9ACE-D9A8DF2D250E}|..\\Greenhouse.Domain\\Greenhouse.Domain.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.domain\\models\\eventresource\\updateeventresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\behaviors\\cache\\clearcachebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\commands\\event\\processevent\\processeventcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\commands\\eventresource\\addeventresource\\addeventresourcehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\commands\\eventresource\\addeventresource\\addeventresourcecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\queries\\greenhouse\\getgreenhouseeventsbyday\\getgreenhouseeventsbydayquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\queries\\eventresource\\geteventwithresbyid\\geteventwithresbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\commands\\event\\cancelevent\\canceleventcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\commands\\event\\cancelevent\\canceleventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7129E930-66E8-4852-A54D-A01B3FC3F096}|Greenhouse.API.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7129E930-66E8-4852-A54D-A01B3FC3F096}|Greenhouse.API.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4435250-F4B1-4076-B86D-A79CFB54CA26}|..\\Greenhouse.Dal\\Greenhouse.Dal.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.dal\\repositories\\employerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D826CDA-603B-46BB-9ACE-D9A8DF2D250E}|..\\Greenhouse.Domain\\Greenhouse.Domain.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.domain\\repositorires\\iemployerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D039735-A606-4F88-BAD1-717B868115DD}|..\\Greenhouse.Infastructure\\Greenhouse.Infastructure.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.infastructure\\implementations\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\commands\\event\\addevent\\addeventcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\commands\\event\\addevent\\addeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\behaviors\\cache\\cachebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\commands\\event\\processevent\\processeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\queries\\employee\\getemplyes\\getemplyesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\queries\\greenhouse\\getgreenhouesespagination\\getgreenhouesespaginationquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\common\\behaviorsinterfaces\\iclearcachebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\common\\intrefaces\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7129E930-66E8-4852-A54D-A01B3FC3F096}|Greenhouse.API.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.api\\contracts\\greenhouseevent\\completeeventrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7129E930-66E8-4852-A54D-A01B3FC3F096}|Greenhouse.API.csproj|solutionrelative:contracts\\greenhouseevent\\completeeventrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D826CDA-603B-46BB-9ACE-D9A8DF2D250E}|..\\Greenhouse.Domain\\Greenhouse.Domain.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.domain\\enums\\resourcetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7129E930-66E8-4852-A54D-A01B3FC3F096}|Greenhouse.API.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.api\\contracts\\greenhouseevent\\proccesseventrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7129E930-66E8-4852-A54D-A01B3FC3F096}|Greenhouse.API.csproj|solutionrelative:contracts\\greenhouseevent\\proccesseventrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\queries\\eventresource\\geteventwithresbyid\\geteventwithresbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D826CDA-603B-46BB-9ACE-D9A8DF2D250E}|..\\Greenhouse.Domain\\Greenhouse.Domain.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.domain\\repositorires\\iagricultiraleventresourcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D826CDA-603B-46BB-9ACE-D9A8DF2D250E}|..\\Greenhouse.Domain\\Greenhouse.Domain.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.domain\\entities\\agricultiraleventresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D826CDA-603B-46BB-9ACE-D9A8DF2D250E}|..\\Greenhouse.Domain\\Greenhouse.Domain.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.domain\\enums\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D826CDA-603B-46BB-9ACE-D9A8DF2D250E}|..\\Greenhouse.Domain\\Greenhouse.Domain.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.domain\\enums\\eventstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\common\\behaviorsinterfaces\\icachequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D826CDA-603B-46BB-9ACE-D9A8DF2D250E}|..\\Greenhouse.Domain\\Greenhouse.Domain.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.domain\\repositorires\\iharvestrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\queries\\employee\\getemplyes\\getemplyeshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\contracts\\employe\\employeeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\contracts\\employe\\employetoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D826CDA-603B-46BB-9ACE-D9A8DF2D250E}|..\\Greenhouse.Domain\\Greenhouse.Domain.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\queries\\greenhouse\\getgreenhouesespagination\\getgreenhouesespaginationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\contracts\\greenhouse\\greenhousepaginationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\commands\\greenhouseentity\\creategreenhouse\\creategreenhousehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7129E930-66E8-4852-A54D-A01B3FC3F096}|Greenhouse.API.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.api\\greenhouse.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7129E930-66E8-4852-A54D-A01B3FC3F096}|Greenhouse.API.csproj|solutionrelative:greenhouse.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D039735-A606-4F88-BAD1-717B868115DD}|..\\Greenhouse.Infastructure\\Greenhouse.Infastructure.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.infastructure\\implementations\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\queries\\greenhouse\\getgreenhousebyid\\getgreenhousebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\queries\\greenhouse\\getgreenhousebyid\\getgreenhousebyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D039735-A606-4F88-BAD1-717B868115DD}|..\\Greenhouse.Infastructure\\Greenhouse.Infastructure.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.infastructure\\implementations\\backgorundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D826CDA-603B-46BB-9ACE-D9A8DF2D250E}|..\\Greenhouse.Domain\\Greenhouse.Domain.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.domain\\entities\\greenhouseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271F6F8-A8B7-4154-BFC3-0FF4ED460E21}|..\\Greenhouse.Application\\Greenhouse.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.application\\contracts\\harvestresource\\createharvestresourcerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4435250-F4B1-4076-B86D-A79CFB54CA26}|..\\Greenhouse.Dal\\Greenhouse.Dal.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.dal\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4435250-F4B1-4076-B86D-A79CFB54CA26}|..\\Greenhouse.Dal\\Greenhouse.Dal.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.dal\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D826CDA-603B-46BB-9ACE-D9A8DF2D250E}|..\\Greenhouse.Domain\\Greenhouse.Domain.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.domain\\repositorires\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4435250-F4B1-4076-B86D-A79CFB54CA26}|..\\Greenhouse.Dal\\Greenhouse.Dal.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4435250-F4B1-4076-B86D-A79CFB54CA26}|..\\Greenhouse.Dal\\Greenhouse.Dal.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.dal\\repositories\\harvestrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D826CDA-603B-46BB-9ACE-D9A8DF2D250E}|..\\Greenhouse.Domain\\Greenhouse.Domain.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.domain\\entities\\croptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D826CDA-603B-46BB-9ACE-D9A8DF2D250E}|..\\Greenhouse.Domain\\Greenhouse.Domain.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.domain\\entities\\harvestrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D826CDA-603B-46BB-9ACE-D9A8DF2D250E}|..\\Greenhouse.Domain\\Greenhouse.Domain.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\greenhouse\\greenhouse.domain\\entities\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetGreenhouseCompletedEventsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouseCompletedEvents\\GetGreenhouseCompletedEventsHandler.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouseCompletedEvents\\GetGreenhouseCompletedEventsHandler.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouseCompletedEvents\\GetGreenhouseCompletedEventsHandler.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouseCompletedEvents\\GetGreenhouseCompletedEventsHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:20:52.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetGreenhouseCompletedEventsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouseCompletedEvents\\GetGreenhouseCompletedEventsQuery.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouseCompletedEvents\\GetGreenhouseCompletedEventsQuery.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouseCompletedEvents\\GetGreenhouseCompletedEventsQuery.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouseCompletedEvents\\GetGreenhouseCompletedEventsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:20:51.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GreenhouseEventController.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.API\\Controllers\\GreenhouseEventController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GreenhouseEventController.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.API\\Controllers\\GreenhouseEventController.cs",
+              "RelativeToolTip": "Controllers\\GreenhouseEventController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:41:32.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetGreenhouseEventsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouseEvents\\GetGreenhouseEventsHandler.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouseEvents\\GetGreenhouseEventsHandler.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouseEvents\\GetGreenhouseEventsHandler.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouseEvents\\GetGreenhouseEventsHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T20:30:59.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetGreenhouseEventsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouseEvents\\GetGreenhouseEventsQuery.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouseEvents\\GetGreenhouseEventsQuery.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouseEvents\\GetGreenhouseEventsQuery.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouseEvents\\GetGreenhouseEventsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T20:35:49.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAgricultiralEventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Domain\\Repositorires\\IAgricultiralEventRepository.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Domain\\Repositorires\\IAgricultiralEventRepository.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Domain\\Repositorires\\IAgricultiralEventRepository.cs",
+              "RelativeToolTip": "..\\Greenhouse.Domain\\Repositorires\\IAgricultiralEventRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:20:40.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGreenhouseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Domain\\Repositorires\\IGreenhouseRepository.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Domain\\Repositorires\\IGreenhouseRepository.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Domain\\Repositorires\\IGreenhouseRepository.cs",
+              "RelativeToolTip": "..\\Greenhouse.Domain\\Repositorires\\IGreenhouseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:42:49.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GreenhouseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Dal\\Repositories\\GreenhouseRepository.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Dal\\Repositories\\GreenhouseRepository.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Dal\\Repositories\\GreenhouseRepository.cs",
+              "RelativeToolTip": "..\\Greenhouse.Dal\\Repositories\\GreenhouseRepository.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAiwD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:44:20.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetGreenhouseEventsByDayHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouseEventsByDay\\GetGreenhouseEventsByDayHandler.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouseEventsByDay\\GetGreenhouseEventsByDayHandler.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouseEventsByDay\\GetGreenhouseEventsByDayHandler.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouseEventsByDay\\GetGreenhouseEventsByDayHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T20:35:29.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GreenhouseController.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.API\\Controllers\\GreenhouseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GreenhouseController.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.API\\Controllers\\GreenhouseController.cs",
+              "RelativeToolTip": "Controllers\\GreenhouseController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwEAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:35:50.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EventResourceController.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.API\\Controllers\\EventResourceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventResourceController.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.API\\Controllers\\EventResourceController.cs",
+              "RelativeToolTip": "Controllers\\EventResourceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwC4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T20:31:08.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SpendEventResourcesConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Consumers\\EventResource\\SpendEventResourcesConsumer.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Consumers\\EventResource\\SpendEventResourcesConsumer.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Consumers\\EventResource\\SpendEventResourcesConsumer.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Consumers\\EventResource\\SpendEventResourcesConsumer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T23:12:26.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-01T19:44:04.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ResourceSpending.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Contracts\\Resource\\ResourceSpending.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Contracts\\Resource\\ResourceSpending.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Contracts\\Resource\\ResourceSpending.cs",
+              "RelativeToolTip": "..\\Greenhouse.Contracts\\Resource\\ResourceSpending.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T23:13:07.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateHarvestResourceConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Consumers\\HarvestResource\\CreateHarvestResourceConsumer.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Consumers\\HarvestResource\\CreateHarvestResourceConsumer.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Consumers\\HarvestResource\\CreateHarvestResourceConsumer.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Consumers\\HarvestResource\\CreateHarvestResourceConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:04:26.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetEventResourcesHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Queries\\EventResource\\GetEventResources\\GetEventResourcesHandler.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Queries\\EventResource\\GetEventResources\\GetEventResourcesHandler.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Queries\\EventResource\\GetEventResources\\GetEventResourcesHandler.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Queries\\EventResource\\GetEventResources\\GetEventResourcesHandler.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADgvygAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T23:12:11.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetEventResourcesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Queries\\EventResource\\GetEventResources\\GetEventResourcesQuery.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Queries\\EventResource\\GetEventResources\\GetEventResourcesQuery.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Queries\\EventResource\\GetEventResources\\GetEventResourcesQuery.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Queries\\EventResource\\GetEventResources\\GetEventResourcesQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T23:12:11.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EventResourceSpendingResponse.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Contracts\\Resource\\EventResourceSpendingResponse.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Contracts\\Resource\\EventResourceSpendingResponse.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Contracts\\Resource\\EventResourceSpendingResponse.cs",
+              "RelativeToolTip": "..\\Greenhouse.Contracts\\Resource\\EventResourceSpendingResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T23:16:14.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Startup.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Startup.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Startup.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Startup.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:38:03.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RabbitMqConf.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Infastructure\\Configurations\\RabbitMqConf.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Infastructure\\Configurations\\RabbitMqConf.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Infastructure\\Configurations\\RabbitMqConf.cs",
+              "RelativeToolTip": "..\\Greenhouse.Infastructure\\Configurations\\RabbitMqConf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T23:31:35.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Infastructure\\Startup.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Infastructure\\Startup.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Infastructure\\Startup.cs",
+              "RelativeToolTip": "..\\Greenhouse.Infastructure\\Startup.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:38:08.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AgricultiralEventResourceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Dal\\Repositories\\AgricultiralEventResourceRepository.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Dal\\Repositories\\AgricultiralEventResourceRepository.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Dal\\Repositories\\AgricultiralEventResourceRepository.cs",
+              "RelativeToolTip": "..\\Greenhouse.Dal\\Repositories\\AgricultiralEventResourceRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:50:06.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AgricultiralEventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Dal\\Repositories\\AgricultiralEventRepository.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Dal\\Repositories\\AgricultiralEventRepository.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Dal\\Repositories\\AgricultiralEventRepository.cs",
+              "RelativeToolTip": "..\\Greenhouse.Dal\\Repositories\\AgricultiralEventRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:08:11.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EventResourceSpendingRequest.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Contracts\\Resource\\EventResourceSpendingRequest.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Contracts\\Resource\\EventResourceSpendingRequest.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Contracts\\Resource\\EventResourceSpendingRequest.cs",
+              "RelativeToolTip": "..\\Greenhouse.Contracts\\Resource\\EventResourceSpendingRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T23:13:07.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CreateEmployeResult.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Contracts\\Emploees\\CreateEmployeResult.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Contracts\\Emploees\\CreateEmployeResult.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Contracts\\Emploees\\CreateEmployeResult.cs",
+              "RelativeToolTip": "..\\Greenhouse.Contracts\\Emploees\\CreateEmployeResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T23:14:29.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EventResourceAmount.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Contracts\\EventResource\\EventResourceAmount.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Contracts\\EventResource\\EventResourceAmount.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Contracts\\EventResource\\EventResourceAmount.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Contracts\\EventResource\\EventResourceAmount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T23:14:23.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EventResourceResponse.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Contracts\\EventResource\\EventResourceResponse.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Contracts\\EventResource\\EventResourceResponse.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Contracts\\EventResource\\EventResourceResponse.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Contracts\\EventResource\\EventResourceResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T23:13:54.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EventResponse.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Contracts\\Event\\EventResponse.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Contracts\\Event\\EventResponse.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Contracts\\Event\\EventResponse.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Contracts\\Event\\EventResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T23:06:19.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GetEventOfEmployeQuery.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Queries\\Event\\GetEventOfEmploye\\GetEventOfEmployeQuery.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Queries\\Event\\GetEventOfEmploye\\GetEventOfEmployeQuery.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Queries\\Event\\GetEventOfEmploye\\GetEventOfEmployeQuery.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Queries\\Event\\GetEventOfEmploye\\GetEventOfEmployeQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T19:53:27.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GetEventOfEmployeHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Queries\\Event\\GetEventOfEmploye\\GetEventOfEmployeHandler.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Queries\\Event\\GetEventOfEmploye\\GetEventOfEmployeHandler.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Queries\\Event\\GetEventOfEmploye\\GetEventOfEmployeHandler.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Queries\\Event\\GetEventOfEmploye\\GetEventOfEmployeHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T19:53:27.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Greenhouse.Contracts.csproj",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Contracts\\Greenhouse.Contracts.csproj",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Contracts\\Greenhouse.Contracts.csproj",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Contracts\\Greenhouse.Contracts.csproj",
+              "RelativeToolTip": "..\\Greenhouse.Contracts\\Greenhouse.Contracts.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-07T23:00:52.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.API\\Middlewares\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "Middlewares\\GlobalExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.API\\Middlewares\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "Middlewares\\GlobalExceptionHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T21:20:38.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:08:17.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AppExtention.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.API\\Extentions\\AppExtention.cs",
+              "RelativeDocumentMoniker": "Extentions\\AppExtention.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.API\\Extentions\\AppExtention.cs",
+              "RelativeToolTip": "Extentions\\AppExtention.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T21:15:05.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "JwtConf.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Infastructure\\Configurations\\JwtConf.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Infastructure\\Configurations\\JwtConf.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Infastructure\\Configurations\\JwtConf.cs",
+              "RelativeToolTip": "..\\Greenhouse.Infastructure\\Configurations\\JwtConf.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:37:33.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CompleteEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Commands\\Event\\CompleteEvent\\CompleteEventHandler.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Commands\\Event\\CompleteEvent\\CompleteEventHandler.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Commands\\Event\\CompleteEvent\\CompleteEventHandler.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Commands\\Event\\CompleteEvent\\CompleteEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:49:02.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AgricultiralEvent.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Domain\\Entities\\AgricultiralEvent.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Domain\\Entities\\AgricultiralEvent.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Domain\\Entities\\AgricultiralEvent.cs",
+              "RelativeToolTip": "..\\Greenhouse.Domain\\Entities\\AgricultiralEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAlwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:15:06.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CompleteEventCommand.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Commands\\Event\\CompleteEvent\\CompleteEventCommand.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Commands\\Event\\CompleteEvent\\CompleteEventCommand.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Commands\\Event\\CompleteEvent\\CompleteEventCommand.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Commands\\Event\\CompleteEvent\\CompleteEventCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T21:21:14.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UpdateEventResource.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Domain\\Models\\EventResource\\UpdateEventResource.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Domain\\Models\\EventResource\\UpdateEventResource.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Domain\\Models\\EventResource\\UpdateEventResource.cs",
+              "RelativeToolTip": "..\\Greenhouse.Domain\\Models\\EventResource\\UpdateEventResource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T20:05:11.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ClearCacheBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Behaviors\\Cache\\ClearCacheBehavior.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Behaviors\\Cache\\ClearCacheBehavior.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Behaviors\\Cache\\ClearCacheBehavior.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Behaviors\\Cache\\ClearCacheBehavior.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T19:25:19.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ProcessEventCommand.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Commands\\Event\\ProcessEvent\\ProcessEventCommand.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Commands\\Event\\ProcessEvent\\ProcessEventCommand.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Commands\\Event\\ProcessEvent\\ProcessEventCommand.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Commands\\Event\\ProcessEvent\\ProcessEventCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T21:21:33.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AddEventResourceHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Commands\\EventResource\\AddEventResource\\AddEventResourceHandler.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Commands\\EventResource\\AddEventResource\\AddEventResourceHandler.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Commands\\EventResource\\AddEventResource\\AddEventResourceHandler.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Commands\\EventResource\\AddEventResource\\AddEventResourceHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:45:39.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AddEventResourceCommand.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Commands\\EventResource\\AddEventResource\\AddEventResourceCommand.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Commands\\EventResource\\AddEventResource\\AddEventResourceCommand.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Commands\\EventResource\\AddEventResource\\AddEventResourceCommand.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Commands\\EventResource\\AddEventResource\\AddEventResourceCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T12:42:13.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GetGreenhouseEventsByDayQuery.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouseEventsByDay\\GetGreenhouseEventsByDayQuery.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouseEventsByDay\\GetGreenhouseEventsByDayQuery.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouseEventsByDay\\GetGreenhouseEventsByDayQuery.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouseEventsByDay\\GetGreenhouseEventsByDayQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T20:35:29.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "GetEventWithResByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Queries\\EventResource\\GetEventWithResById\\GetEventWithResByIdQuery.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Queries\\EventResource\\GetEventWithResById\\GetEventWithResByIdQuery.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Queries\\EventResource\\GetEventWithResById\\GetEventWithResByIdQuery.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Queries\\EventResource\\GetEventWithResById\\GetEventWithResByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T23:12:43.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CancelEventCommand.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Commands\\Event\\CancelEvent\\CancelEventCommand.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Commands\\Event\\CancelEvent\\CancelEventCommand.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Commands\\Event\\CancelEvent\\CancelEventCommand.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Commands\\Event\\CancelEvent\\CancelEventCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T19:23:45.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CancelEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Commands\\Event\\CancelEvent\\CancelEventHandler.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Commands\\Event\\CancelEvent\\CancelEventHandler.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Commands\\Event\\CancelEvent\\CancelEventHandler.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Commands\\Event\\CancelEvent\\CancelEventHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T20:17:56.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.API\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.API\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T19:33:28.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "EmployeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Dal\\Repositories\\EmployeRepository.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Dal\\Repositories\\EmployeRepository.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Dal\\Repositories\\EmployeRepository.cs",
+              "RelativeToolTip": "..\\Greenhouse.Dal\\Repositories\\EmployeRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T19:40:31.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IEmployeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Domain\\Repositorires\\IEmployeRepository.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Domain\\Repositorires\\IEmployeRepository.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Domain\\Repositorires\\IEmployeRepository.cs",
+              "RelativeToolTip": "..\\Greenhouse.Domain\\Repositorires\\IEmployeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:57:51.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CacheService.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Infastructure\\Implementations\\CacheService.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Infastructure\\Implementations\\CacheService.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Infastructure\\Implementations\\CacheService.cs",
+              "RelativeToolTip": "..\\Greenhouse.Infastructure\\Implementations\\CacheService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAD4v0wAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T19:56:32.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AddEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Commands\\Event\\AddEvent\\AddEventHandler.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Commands\\Event\\AddEvent\\AddEventHandler.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Commands\\Event\\AddEvent\\AddEventHandler.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Commands\\Event\\AddEvent\\AddEventHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:45:43.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ProcessEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Commands\\Event\\ProcessEvent\\ProcessEventHandler.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Commands\\Event\\ProcessEvent\\ProcessEventHandler.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Commands\\Event\\ProcessEvent\\ProcessEventHandler.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Commands\\Event\\ProcessEvent\\ProcessEventHandler.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T20:19:38.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AddEventCommand.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Commands\\Event\\AddEvent\\AddEventCommand.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Commands\\Event\\AddEvent\\AddEventCommand.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Commands\\Event\\AddEvent\\AddEventCommand.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Commands\\Event\\AddEvent\\AddEventCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T19:28:10.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CacheBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Behaviors\\Cache\\CacheBehavior.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Behaviors\\Cache\\CacheBehavior.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Behaviors\\Cache\\CacheBehavior.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Behaviors\\Cache\\CacheBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwCYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T19:47:00.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "GetEmplyesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Queries\\Employee\\GetEmplyes\\GetEmplyesQuery.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Queries\\Employee\\GetEmplyes\\GetEmplyesQuery.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Queries\\Employee\\GetEmplyes\\GetEmplyesQuery.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Queries\\Employee\\GetEmplyes\\GetEmplyesQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T19:36:12.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "GetGreenhouesesPaginationQuery.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouesesPagination\\GetGreenhouesesPaginationQuery.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouesesPagination\\GetGreenhouesesPaginationQuery.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouesesPagination\\GetGreenhouesesPaginationQuery.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouesesPagination\\GetGreenhouesesPaginationQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:38:17.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "IClearCacheBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Common\\BehaviorsInterfaces\\IClearCacheBehavior.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Common\\BehaviorsInterfaces\\IClearCacheBehavior.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Common\\BehaviorsInterfaces\\IClearCacheBehavior.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Common\\BehaviorsInterfaces\\IClearCacheBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T21:19:57.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CompleteEventRequest.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.API\\Contracts\\GreenhouseEvent\\CompleteEventRequest.cs",
+              "RelativeDocumentMoniker": "Contracts\\GreenhouseEvent\\CompleteEventRequest.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.API\\Contracts\\GreenhouseEvent\\CompleteEventRequest.cs",
+              "RelativeToolTip": "Contracts\\GreenhouseEvent\\CompleteEventRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:35:45.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ICacheService.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Common\\Intrefaces\\ICacheService.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Common\\Intrefaces\\ICacheService.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Common\\Intrefaces\\ICacheService.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Common\\Intrefaces\\ICacheService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T19:48:25.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ProccessEventRequest.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.API\\Contracts\\GreenhouseEvent\\ProccessEventRequest.cs",
+              "RelativeDocumentMoniker": "Contracts\\GreenhouseEvent\\ProccessEventRequest.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.API\\Contracts\\GreenhouseEvent\\ProccessEventRequest.cs",
+              "RelativeToolTip": "Contracts\\GreenhouseEvent\\ProccessEventRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T20:19:12.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ResourceType.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Domain\\Enums\\ResourceType.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Domain\\Enums\\ResourceType.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Domain\\Enums\\ResourceType.cs",
+              "RelativeToolTip": "..\\Greenhouse.Domain\\Enums\\ResourceType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T12:19:06.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "GetEventWithResByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Queries\\EventResource\\GetEventWithResById\\GetEventWithResByIdHandler.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Queries\\EventResource\\GetEventWithResById\\GetEventWithResByIdHandler.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Queries\\EventResource\\GetEventWithResById\\GetEventWithResByIdHandler.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Queries\\EventResource\\GetEventWithResById\\GetEventWithResByIdHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T23:10:57.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IAgricultiralEventResourceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Domain\\Repositorires\\IAgricultiralEventResourceRepository.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Domain\\Repositorires\\IAgricultiralEventResourceRepository.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Domain\\Repositorires\\IAgricultiralEventResourceRepository.cs",
+              "RelativeToolTip": "..\\Greenhouse.Domain\\Repositorires\\IAgricultiralEventResourceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:19:38.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "AgricultiralEventResource.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Domain\\Entities\\AgricultiralEventResource.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Domain\\Entities\\AgricultiralEventResource.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Domain\\Entities\\AgricultiralEventResource.cs",
+              "RelativeToolTip": "..\\Greenhouse.Domain\\Entities\\AgricultiralEventResource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:15:04.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "EventStatus.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Domain\\Enums\\EventStatus.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Domain\\Enums\\EventStatus.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Domain\\Enums\\EventStatus.cs",
+              "RelativeToolTip": "..\\Greenhouse.Domain\\Enums\\EventStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:47:15.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "EventType.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Domain\\Enums\\EventType.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Domain\\Enums\\EventType.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Domain\\Enums\\EventType.cs",
+              "RelativeToolTip": "..\\Greenhouse.Domain\\Enums\\EventType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:14:10.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ICacheQuery.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Common\\BehaviorsInterfaces\\ICacheQuery.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Common\\BehaviorsInterfaces\\ICacheQuery.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Common\\BehaviorsInterfaces\\ICacheQuery.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Common\\BehaviorsInterfaces\\ICacheQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T19:44:43.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IHarvestRecordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Domain\\Repositorires\\IHarvestRecordRepository.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Domain\\Repositorires\\IHarvestRecordRepository.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Domain\\Repositorires\\IHarvestRecordRepository.cs",
+              "RelativeToolTip": "..\\Greenhouse.Domain\\Repositorires\\IHarvestRecordRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:29:05.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "GetEmplyesHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Queries\\Employee\\GetEmplyes\\GetEmplyesHandler.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Queries\\Employee\\GetEmplyes\\GetEmplyesHandler.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Queries\\Employee\\GetEmplyes\\GetEmplyesHandler.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Queries\\Employee\\GetEmplyes\\GetEmplyesHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T19:36:12.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "EmployeeResponse.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Contracts\\Employe\\EmployeeResponse.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Contracts\\Employe\\EmployeeResponse.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Contracts\\Employe\\EmployeeResponse.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Contracts\\Employe\\EmployeeResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T19:37:07.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Domain\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Domain\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Domain\\Entities\\Employee.cs",
+              "RelativeToolTip": "..\\Greenhouse.Domain\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T19:36:44.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "EmployeToken.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Contracts\\Employe\\EmployeToken.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Contracts\\Employe\\EmployeToken.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Contracts\\Employe\\EmployeToken.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Contracts\\Employe\\EmployeToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:22:19.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "GreenhousePaginationResponse.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Contracts\\Greenhouse\\GreenhousePaginationResponse.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Contracts\\Greenhouse\\GreenhousePaginationResponse.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Contracts\\Greenhouse\\GreenhousePaginationResponse.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Contracts\\Greenhouse\\GreenhousePaginationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T19:05:20.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "GetGreenhouesesPaginationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouesesPagination\\GetGreenhouesesPaginationHandler.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouesesPagination\\GetGreenhouesesPaginationHandler.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouesesPagination\\GetGreenhouesesPaginationHandler.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouesesPagination\\GetGreenhouesesPaginationHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:38:17.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "CreateGreenhouseHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Commands\\GreenhouseEntity\\CreateGreenhouse\\CreateGreenhouseHandler.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Commands\\GreenhouseEntity\\CreateGreenhouse\\CreateGreenhouseHandler.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Commands\\GreenhouseEntity\\CreateGreenhouse\\CreateGreenhouseHandler.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Commands\\GreenhouseEntity\\CreateGreenhouse\\CreateGreenhouseHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAABQwBwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T09:37:04.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Greenhouse.API.csproj",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.API\\Greenhouse.API.csproj",
+              "RelativeDocumentMoniker": "Greenhouse.API.csproj",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.API\\Greenhouse.API.csproj",
+              "RelativeToolTip": "Greenhouse.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-01T21:14:52.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Infastructure\\Implementations\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Infastructure\\Implementations\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Infastructure\\Implementations\\JwtTokenService.cs",
+              "RelativeToolTip": "..\\Greenhouse.Infastructure\\Implementations\\JwtTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:57:19.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "GetGreenhouseByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouseById\\GetGreenhouseByIdQuery.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouseById\\GetGreenhouseByIdQuery.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouseById\\GetGreenhouseByIdQuery.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouseById\\GetGreenhouseByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:56:56.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "GetGreenhouseByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouseById\\GetGreenhouseByIdHandler.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouseById\\GetGreenhouseByIdHandler.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouseById\\GetGreenhouseByIdHandler.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Queries\\Greenhouse\\GetGreenhouseById\\GetGreenhouseByIdHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:38:36.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "BackgorundService.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Infastructure\\Implementations\\BackgorundService.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Infastructure\\Implementations\\BackgorundService.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Infastructure\\Implementations\\BackgorundService.cs",
+              "RelativeToolTip": "..\\Greenhouse.Infastructure\\Implementations\\BackgorundService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:57:21.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "GreenhouseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Domain\\Entities\\GreenhouseEntity.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Domain\\Entities\\GreenhouseEntity.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Domain\\Entities\\GreenhouseEntity.cs",
+              "RelativeToolTip": "..\\Greenhouse.Domain\\Entities\\GreenhouseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T19:27:52.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Dal\\Startup.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Dal\\Startup.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Dal\\Startup.cs",
+              "RelativeToolTip": "..\\Greenhouse.Dal\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:34:46.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Dal\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Dal\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Dal\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "..\\Greenhouse.Dal\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:34:38.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Domain\\Repositorires\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Domain\\Repositorires\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Domain\\Repositorires\\IUnitOfWork.cs",
+              "RelativeToolTip": "..\\Greenhouse.Domain\\Repositorires\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:34:24.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "CreateHarvestResourceRequest.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Contracts\\HarvestResource\\CreateHarvestResourceRequest.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Application\\Contracts\\HarvestResource\\CreateHarvestResourceRequest.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Application\\Contracts\\HarvestResource\\CreateHarvestResourceRequest.cs",
+              "RelativeToolTip": "..\\Greenhouse.Application\\Contracts\\HarvestResource\\CreateHarvestResourceRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:05:12.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Dal\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Dal\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Dal\\AppDbContext.cs",
+              "RelativeToolTip": "..\\Greenhouse.Dal\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:34:21.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "HarvestRecordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Dal\\Repositories\\HarvestRecordRepository.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Dal\\Repositories\\HarvestRecordRepository.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Dal\\Repositories\\HarvestRecordRepository.cs",
+              "RelativeToolTip": "..\\Greenhouse.Dal\\Repositories\\HarvestRecordRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:29:27.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "CropType.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Domain\\Entities\\CropType.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Domain\\Entities\\CropType.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Domain\\Entities\\CropType.cs",
+              "RelativeToolTip": "..\\Greenhouse.Domain\\Entities\\CropType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:21:53.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "Resource.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Domain\\Entities\\Resource.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Domain\\Entities\\Resource.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Domain\\Entities\\Resource.cs",
+              "RelativeToolTip": "..\\Greenhouse.Domain\\Entities\\Resource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:06:08.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "HarvestRecord.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Domain\\Entities\\HarvestRecord.cs",
+              "RelativeDocumentMoniker": "..\\Greenhouse.Domain\\Entities\\HarvestRecord.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Greenhouse\\Greenhouse.Domain\\Entities\\HarvestRecord.cs",
+              "RelativeToolTip": "..\\Greenhouse.Domain\\Entities\\HarvestRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:53:17.818Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

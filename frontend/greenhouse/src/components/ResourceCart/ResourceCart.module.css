@@ -1,0 +1,39 @@
+.ResourceCart__Main {
+  display: flex;
+  align-items: center;
+  font-family: var(--font-family);
+  font-weight: 600;
+  font-size: 20px;
+  color: var(--font-color-shadow);
+  width: 100%;
+}
+
+.ResourceCart__Main > * {
+  border-right: 1px solid var(--font-color-shadow);
+  padding: 20px 0;
+  text-align: center;
+  height: 65px;
+}
+
+.ResourceCart__Name {
+  border-left: 1px solid var(--font-color-shadow);
+  padding: 20px 0;
+  width: 25%;
+}
+
+.ResourceCart__Unit {
+  width: 25%;
+}
+
+.ResourceCart__ResourceType {
+  width: 15%;
+}
+
+.ResourceCart__PlannedAmount {
+  width: 15%;
+}
+
+.ResourceCart__ActualAmount {
+  width: 20%;
+  /* border-left: 1px solid var(--font-color-shadow); */
+}

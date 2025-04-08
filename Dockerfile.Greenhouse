@@ -1,0 +1,27 @@
+FROM mcr.microsoft.com/dotnet/sdk:8.0 as build
+
+WORKDIR /src
+
+
+COPY ["backend/Greenhouse/", "Greenhouse/"]
+COPY ["backend/Application.Shared/", "Application.Shared/"]
+COPY ["backend/Notification/Notification.Contracts", "Notification/Notification.Contracts"]
+
+RUN dotnet restore 'Greenhouse/Greenhouse.API/Greenhouse.API.csproj'
+
+COPY . .
+
+WORKDIR /src/Greenhouse/Greenhouse.API
+RUN dotnet build "Greenhouse.API.csproj" -c Release -o /app/build
+
+FROM build as publish
+RUN dotnet publish -c Release -o /app/publish
+
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 
+ENV ASPNETCORE_HTTP_PORTS=5201
+ENV ASPNETCORE_HTTPS_PORTS=5202
+EXPOSE 5201
+EXPOSE 5202
+WORKDIR /app
+COPY --from=publish /app/publish .
+ENTRYPOINT [ "dotnet", "Greenhouse.API.dll" ]

@@ -1,0 +1,109 @@
+.Combobox__Main {
+  width: 100%;
+  border-radius: 5px;
+  border: 1px solid var(--font-color-black);
+  position: relative;
+  display: flex;
+  align-items: center;
+  padding: 15px 25px;
+  transition: all .3s;
+  box-shadow: 3px 3px 1px var(--font-color-black);
+  position: relative;
+}
+
+.Combobox__Main:hover {
+  border: 1px solid var(--primary-color);
+}
+
+.Combobox__Main:hover .Combobox__SelectedArrow svg {
+  fill: var(--primary-color);
+}
+
+.Combobox__SelectedItem {
+  font-size: 20px;
+  font-family: var(--font-family);
+  color: var(--font-color-shadow);
+  width: 100%;
+  display: flex;
+  align-items: center;
+  font-weight: 400;
+}
+
+.Combobox__ItemContent {
+  flex: 1;
+}
+
+.Combobox__SelectedArrow {
+  margin-left: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Combobox__SelectedArrow svg{
+  fill: var(--font-color-shadow);
+  transition: all .3s;
+}
+
+.Combobox__Items {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  top: 0;
+  z-index: 200;
+  background-color: #fff;
+  scale: 1.05;
+  transition: height .3s;
+}
+
+.Combobox__Items_Hide {
+  height: 0px;
+  opacity: 0;
+  pointer-events: none;
+  scale: 0;
+}
+
+.Combobox__Item {
+  font-size: 20px;
+  font-family: var(--font-family);
+  color: var(--font-color-shadow);
+  width: 100%;
+  padding: 15px 25px;
+  border: 2px solid var(--font-color-black);
+  border-radius: 5px;
+  transition: all .3s;
+  background-color: #fff;
+}
+
+.Combobox__Item:hover {
+  transform: translate(-5px, 0px);
+  box-shadow: 3px 0px var(--primary-color);
+  border: 1px solid var(--primary-color);
+  scale: 1.05;
+}
+
+.Combobox__Item + .Combobox__Item {
+  margin-top: 1px;
+}
+
+.Combobox__ErrorMessage {
+  position: absolute;
+  left: 0;
+  top: 55px;
+  font-size: 14px;
+  font-family: var(--font-family);
+  color: #fff;
+  padding: 20px 25px;
+  border-radius: 5px;
+  background-color: var(--font-color-shadow);
+  z-index: 200;
+  transition: opacity .3s;
+}
+
+.Combobox__ErrorMessageHiden {
+  height: 0;
+  width: 0;
+  opacity: 0;
+  padding: 0;
+}
+

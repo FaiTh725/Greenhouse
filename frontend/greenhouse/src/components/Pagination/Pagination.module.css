@@ -1,0 +1,9 @@
+.Pagination__Main {
+  display: flex;
+  align-items: center;
+  padding: 10px 15px;
+}
+
+.Pagination__BtnContainer + .Pagination__BtnContainer {
+  margin-left: 20px;
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Xw1IXrCiTpPs2C7f3yEan2uk8zOIPv32CBHpS45HNSQ=",
+  "Source": "Greenhouse.API",
+  "BasePath": "_content/Greenhouse.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

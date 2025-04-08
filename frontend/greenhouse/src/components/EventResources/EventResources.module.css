@@ -1,0 +1,13 @@
+.EventResources__Main {
+  padding: 20px 35px;
+}
+
+.EventResources__Header {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+} 
+
+.EventResources__Resources {
+  margin-top: 20px;
+}

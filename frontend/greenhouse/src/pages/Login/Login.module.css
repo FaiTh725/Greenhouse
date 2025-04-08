@@ -1,0 +1,54 @@
+.Login__Main {
+  font-family: var(--font-family);
+  font-weight: 600;
+  font-size: 20px;
+  color: var(--font-color-black);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 100px 0;
+}
+
+.Login__Wrapper {
+  text-align: center;
+}
+
+.Login__PageName {
+  color: var(--primary-color);
+  margin-bottom: 50px;
+}
+
+.Login__HeaderText {
+  font-size: 38px;
+  line-height: 30px;
+}
+
+.Login__Form {
+  margin-top: 150px;
+  font-size: 30px;
+}
+
+.Login__Form * + *{
+  margin-top: 25px;
+}
+
+.Login__From_Name {
+  margin-bottom: 50px;
+}
+
+.Login__BtnForm {
+  margin-top: 30px;
+  padding: 0 120px;
+}
+
+.Login__Links {
+  margin-top: 30px;
+  color: var(--font-color-shadow);
+}
+
+.Login__Links_SignIn {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-weight: 400;
+}

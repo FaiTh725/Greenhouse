@@ -1,0 +1,11 @@
+.PrimaryLink__Main {
+  font-weight: 400;
+  font-family: var(--font-family);
+  size: 20px;
+  transition: all .3s;
+  cursor: pointer;
+}
+
+.PrimaryLink__Main:hover {
+  color: var(--primary-color);
+}

@@ -1,0 +1,17 @@
+C:\Users\zelen\Барышев\Lab12\backend\Report\Report.Application\bin\Debug\net8.0\Report.Application.deps.json
+C:\Users\zelen\Барышев\Lab12\backend\Report\Report.Application\bin\Debug\net8.0\Report.Application.dll
+C:\Users\zelen\Барышев\Lab12\backend\Report\Report.Application\bin\Debug\net8.0\Report.Application.pdb
+C:\Users\zelen\Барышев\Lab12\backend\Report\Report.Application\obj\Debug\net8.0\Report.Application.csproj.AssemblyReference.cache
+C:\Users\zelen\Барышев\Lab12\backend\Report\Report.Application\obj\Debug\net8.0\Report.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zelen\Барышев\Lab12\backend\Report\Report.Application\obj\Debug\net8.0\Report.Application.AssemblyInfoInputs.cache
+C:\Users\zelen\Барышев\Lab12\backend\Report\Report.Application\obj\Debug\net8.0\Report.Application.AssemblyInfo.cs
+C:\Users\zelen\Барышев\Lab12\backend\Report\Report.Application\obj\Debug\net8.0\Report.Application.csproj.CoreCompileInputs.cache
+C:\Users\zelen\Барышев\Lab12\backend\Report\Report.Application\obj\Debug\net8.0\Report.Application.dll
+C:\Users\zelen\Барышев\Lab12\backend\Report\Report.Application\obj\Debug\net8.0\refint\Report.Application.dll
+C:\Users\zelen\Барышев\Lab12\backend\Report\Report.Application\obj\Debug\net8.0\Report.Application.pdb
+C:\Users\zelen\Барышев\Lab12\backend\Report\Report.Application\obj\Debug\net8.0\ref\Report.Application.dll
+C:\Users\zelen\Барышев\Lab12\backend\Report\Report.Application\bin\Debug\net8.0\Application.Shared.dll
+C:\Users\zelen\Барышев\Lab12\backend\Report\Report.Application\bin\Debug\net8.0\Greenhouse.Contracts.dll
+C:\Users\zelen\Барышев\Lab12\backend\Report\Report.Application\bin\Debug\net8.0\Application.Shared.pdb
+C:\Users\zelen\Барышев\Lab12\backend\Report\Report.Application\bin\Debug\net8.0\Greenhouse.Contracts.pdb
+C:\Users\zelen\Барышев\Lab12\backend\Report\Report.Application\obj\Debug\net8.0\Report.A.3A3967C0.Up2Date

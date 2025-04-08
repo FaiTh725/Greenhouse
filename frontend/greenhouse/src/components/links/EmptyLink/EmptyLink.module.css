@@ -1,0 +1,11 @@
+.EmptyLink__Main {
+  font-family: var(--font-family);
+  font-weight: 600;
+  font-size: 20px;
+  color: var(--font-color-black);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 7px 10px;
+  cursor: pointer;
+}

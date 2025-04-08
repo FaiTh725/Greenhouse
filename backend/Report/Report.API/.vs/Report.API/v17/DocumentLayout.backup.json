@@ -1,0 +1,352 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{425C4FB9-CF38-4065-8CAC-9CF156C653C4}|Report.API.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\report\\report.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425C4FB9-CF38-4065-8CAC-9CF156C653C4}|Report.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425C4FB9-CF38-4065-8CAC-9CF156C653C4}|Report.API.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\report\\report.api\\extention\\appextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425C4FB9-CF38-4065-8CAC-9CF156C653C4}|Report.API.csproj|solutionrelative:extention\\appextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF472737-A35C-49D3-9D01-969058FEF365}|..\\Report.Application\\Report.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\report\\report.application\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425C4FB9-CF38-4065-8CAC-9CF156C653C4}|Report.API.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\report\\report.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{425C4FB9-CF38-4065-8CAC-9CF156C653C4}|Report.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF472737-A35C-49D3-9D01-969058FEF365}|..\\Report.Application\\Report.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\report\\report.application\\command\\resourcereport\\createresourcereporthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D50C2AC-2BEE-4515-96AD-8F983F34C73A}|..\\Report.Infastructure\\Report.Infastructure.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\report\\report.infastructure\\implementations\\resourcereportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425C4FB9-CF38-4065-8CAC-9CF156C653C4}|Report.API.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\report\\report.api\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425C4FB9-CF38-4065-8CAC-9CF156C653C4}|Report.API.csproj|solutionrelative:controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF472737-A35C-49D3-9D01-969058FEF365}|..\\Report.Application\\Report.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\report\\report.application\\command\\resourcereport\\createresourcereportcommad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF472737-A35C-49D3-9D01-969058FEF365}|..\\Report.Application\\Report.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\report\\report.application\\contracts\\resourcesreport\\resourcereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF472737-A35C-49D3-9D01-969058FEF365}|..\\Report.Application\\Report.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\report\\report.application\\common\\interfaces\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425C4FB9-CF38-4065-8CAC-9CF156C653C4}|Report.API.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\report\\report.api\\middlewares\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425C4FB9-CF38-4065-8CAC-9CF156C653C4}|Report.API.csproj|solutionrelative:middlewares\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D50C2AC-2BEE-4515-96AD-8F983F34C73A}|..\\Report.Infastructure\\Report.Infastructure.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\report\\report.infastructure\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF472737-A35C-49D3-9D01-969058FEF365}|..\\Report.Application\\Report.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\report\\report.application\\contracts\\file\\fileresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF472737-A35C-49D3-9D01-969058FEF365}|..\\Report.Application\\Report.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\report\\report.application\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF472737-A35C-49D3-9D01-969058FEF365}|..\\Report.Application\\Report.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\report\\report.application\\report.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF472737-A35C-49D3-9D01-969058FEF365}|..\\Report.Application\\Report.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\report\\report.application\\contracts\\resourcesreport\\reportresourcesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D50C2AC-2BEE-4515-96AD-8F983F34C73A}|..\\Report.Infastructure\\Report.Infastructure.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\report\\report.infastructure\\configurations\\rabbitmqconf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425C4FB9-CF38-4065-8CAC-9CF156C653C4}|Report.API.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\report\\report.api\\report.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{425C4FB9-CF38-4065-8CAC-9CF156C653C4}|Report.API.csproj|solutionrelative:report.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D50C2AC-2BEE-4515-96AD-8F983F34C73A}|..\\Report.Infastructure\\Report.Infastructure.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\report\\report.infastructure\\configurations\\jwtconf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D50C2AC-2BEE-4515-96AD-8F983F34C73A}|..\\Report.Infastructure\\Report.Infastructure.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\report\\report.infastructure\\report.infastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateResourceReportHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.Application\\Command\\ResourceReport\\CreateResourceReportHandler.cs",
+              "RelativeDocumentMoniker": "..\\Report.Application\\Command\\ResourceReport\\CreateResourceReportHandler.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.Application\\Command\\ResourceReport\\CreateResourceReportHandler.cs",
+              "RelativeToolTip": "..\\Report.Application\\Command\\ResourceReport\\CreateResourceReportHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:18:39.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateResourceReportCommad.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.Application\\Command\\ResourceReport\\CreateResourceReportCommad.cs",
+              "RelativeDocumentMoniker": "..\\Report.Application\\Command\\ResourceReport\\CreateResourceReportCommad.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.Application\\Command\\ResourceReport\\CreateResourceReportCommad.cs",
+              "RelativeToolTip": "..\\Report.Application\\Command\\ResourceReport\\CreateResourceReportCommad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:18:39.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.API\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.API\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "Controllers\\ReportController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:31:10.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-07T22:35:20.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IReportService.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.Application\\Common\\Interfaces\\IReportService.cs",
+              "RelativeDocumentMoniker": "..\\Report.Application\\Common\\Interfaces\\IReportService.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.Application\\Common\\Interfaces\\IReportService.cs",
+              "RelativeToolTip": "..\\Report.Application\\Common\\Interfaces\\IReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:58:41.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResourceReportService.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.Infastructure\\Implementations\\ResourceReportService.cs",
+              "RelativeDocumentMoniker": "..\\Report.Infastructure\\Implementations\\ResourceReportService.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.Infastructure\\Implementations\\ResourceReportService.cs",
+              "RelativeToolTip": "..\\Report.Infastructure\\Implementations\\ResourceReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwC0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:13:25.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FileResponse.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.Application\\Contracts\\File\\FileResponse.cs",
+              "RelativeDocumentMoniker": "..\\Report.Application\\Contracts\\File\\FileResponse.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.Application\\Contracts\\File\\FileResponse.cs",
+              "RelativeToolTip": "..\\Report.Application\\Contracts\\File\\FileResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:19:06.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.Application\\Startup.cs",
+              "RelativeDocumentMoniker": "..\\Report.Application\\Startup.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.Application\\Startup.cs",
+              "RelativeToolTip": "..\\Report.Application\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:30:23.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.Application\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "..\\Report.Application\\AssemblyReference.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.Application\\AssemblyReference.cs",
+              "RelativeToolTip": "..\\Report.Application\\AssemblyReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:26:20.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.Infastructure\\Startup.cs",
+              "RelativeDocumentMoniker": "..\\Report.Infastructure\\Startup.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.Infastructure\\Startup.cs",
+              "RelativeToolTip": "..\\Report.Infastructure\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:30:16.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.API\\Middlewares\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "Middlewares\\GlobalExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.API\\Middlewares\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "Middlewares\\GlobalExceptionHandler.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:51:26.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:42:39.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Report.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.Application\\Report.Application.csproj",
+              "RelativeDocumentMoniker": "..\\Report.Application\\Report.Application.csproj",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.Application\\Report.Application.csproj",
+              "RelativeToolTip": "..\\Report.Application\\Report.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-07T22:29:44.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppExtention.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.API\\Extention\\AppExtention.cs",
+              "RelativeDocumentMoniker": "Extention\\AppExtention.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.API\\Extention\\AppExtention.cs",
+              "RelativeToolTip": "Extention\\AppExtention.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:54:20.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResourceReport.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.Application\\Contracts\\ResourcesReport\\ResourceReport.cs",
+              "RelativeDocumentMoniker": "..\\Report.Application\\Contracts\\ResourcesReport\\ResourceReport.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.Application\\Contracts\\ResourcesReport\\ResourceReport.cs",
+              "RelativeToolTip": "..\\Report.Application\\Contracts\\ResourcesReport\\ResourceReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:11:19.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReportResourcesRequest.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.Application\\Contracts\\ResourcesReport\\ReportResourcesRequest.cs",
+              "RelativeDocumentMoniker": "..\\Report.Application\\Contracts\\ResourcesReport\\ReportResourcesRequest.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.Application\\Contracts\\ResourcesReport\\ReportResourcesRequest.cs",
+              "RelativeToolTip": "..\\Report.Application\\Contracts\\ResourcesReport\\ReportResourcesRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:10:24.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RabbitMqConf.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.Infastructure\\Configurations\\RabbitMqConf.cs",
+              "RelativeDocumentMoniker": "..\\Report.Infastructure\\Configurations\\RabbitMqConf.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.Infastructure\\Configurations\\RabbitMqConf.cs",
+              "RelativeToolTip": "..\\Report.Infastructure\\Configurations\\RabbitMqConf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T23:31:48.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Report.API.csproj",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.API\\Report.API.csproj",
+              "RelativeDocumentMoniker": "Report.API.csproj",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.API\\Report.API.csproj",
+              "RelativeToolTip": "Report.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-07T22:51:10.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JwtConf.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.Infastructure\\Configurations\\JwtConf.cs",
+              "RelativeDocumentMoniker": "..\\Report.Infastructure\\Configurations\\JwtConf.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.Infastructure\\Configurations\\JwtConf.cs",
+              "RelativeToolTip": "..\\Report.Infastructure\\Configurations\\JwtConf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:34:51.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Report.Infastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.Infastructure\\Report.Infastructure.csproj",
+              "RelativeDocumentMoniker": "..\\Report.Infastructure\\Report.Infastructure.csproj",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Report\\Report.Infastructure\\Report.Infastructure.csproj",
+              "RelativeToolTip": "..\\Report.Infastructure\\Report.Infastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-07T22:30:03.442Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Notification.API.Controllers.TestController",
+    "Method": "Test",
+    "RelativePath": "Test/Test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

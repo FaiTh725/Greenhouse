@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>e7b2a1c9-e121-475c-9811-fe321576051d</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Report.Application\Report.Application.csproj" />
+    <ProjectReference Include="..\Report.Infastructure\Report.Infastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Application.Shared">
+      <HintPath>..\..\Application.Shared\bin\Debug\net8.0\Application.Shared.dll</HintPath>
+    </Reference>
+    <Reference Include="Greenhouse.Contracts">
+      <HintPath>..\..\Greenhouse\Greenhouse.Contracts\bin\Debug\net8.0\Greenhouse.Contracts.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

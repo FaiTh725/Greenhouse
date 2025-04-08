@@ -1,0 +1,868 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B05EE3B8-6D87-4810-A169-CEE51875F9A9}|Authorize.API.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.api\\controllers\\authorizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05EE3B8-6D87-4810-A169-CEE51875F9A9}|Authorize.API.csproj|solutionrelative:controllers\\authorizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D69E86-5EAA-4EF5-8CBF-5B82122A56D3}|..\\Authorize.Domain\\Authorize.Domain.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37014782-782A-41A7-A494-B037C7FA3866}|..\\Authorize.Application\\Authorize.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.application\\commands\\user\\registeruser\\registeruserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05EE3B8-6D87-4810-A169-CEE51875F9A9}|Authorize.API.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B05EE3B8-6D87-4810-A169-CEE51875F9A9}|Authorize.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05EE3B8-6D87-4810-A169-CEE51875F9A9}|Authorize.API.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.api\\middlewares\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05EE3B8-6D87-4810-A169-CEE51875F9A9}|Authorize.API.csproj|solutionrelative:middlewares\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05EE3B8-6D87-4810-A169-CEE51875F9A9}|Authorize.API.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.api\\extentions\\appextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05EE3B8-6D87-4810-A169-CEE51875F9A9}|Authorize.API.csproj|solutionrelative:extentions\\appextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05EE3B8-6D87-4810-A169-CEE51875F9A9}|Authorize.API.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05EE3B8-6D87-4810-A169-CEE51875F9A9}|Authorize.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05EE3B8-6D87-4810-A169-CEE51875F9A9}|Authorize.API.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.api\\authorize.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B05EE3B8-6D87-4810-A169-CEE51875F9A9}|Authorize.API.csproj|solutionrelative:authorize.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37014782-782A-41A7-A494-B037C7FA3866}|..\\Authorize.Application\\Authorize.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.application\\commands\\user\\loginuser\\loginuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41273B5D-59BA-452D-9A4E-16F0DF2CE743}|..\\Authorize.Infastructure\\Authorize.Infastructure.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.infastructure\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85EBA56D-2F05-46F7-AA6D-4406D5E379CE}|..\\Authorize.Dal\\Authorize.Dal.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37014782-782A-41A7-A494-B037C7FA3866}|..\\Authorize.Application\\Authorize.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.application\\commands\\user\\activeusers\\activeusershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37014782-782A-41A7-A494-B037C7FA3866}|..\\Authorize.Application\\Authorize.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.application\\commands\\user\\activeusers\\activeuserscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37014782-782A-41A7-A494-B037C7FA3866}|..\\Authorize.Application\\Authorize.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.application\\commands\\user\\confirmuseremail\\confirmuseremailhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85EBA56D-2F05-46F7-AA6D-4406D5E379CE}|..\\Authorize.Dal\\Authorize.Dal.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.dal\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85EBA56D-2F05-46F7-AA6D-4406D5E379CE}|..\\Authorize.Dal\\Authorize.Dal.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37014782-782A-41A7-A494-B037C7FA3866}|..\\Authorize.Application\\Authorize.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.application\\eventhandlers\\user\\sendemailtoactiveusereventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D69E86-5EAA-4EF5-8CBF-5B82122A56D3}|..\\Authorize.Domain\\Authorize.Domain.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.domain\\primitives\\domainevententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D69E86-5EAA-4EF5-8CBF-5B82122A56D3}|..\\Authorize.Domain\\Authorize.Domain.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.domain\\events\\activeuserevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37014782-782A-41A7-A494-B037C7FA3866}|..\\Authorize.Application\\Authorize.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.application\\commands\\user\\confirmuseremail\\confirmuseremailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37014782-782A-41A7-A494-B037C7FA3866}|..\\Authorize.Application\\Authorize.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.application\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37014782-782A-41A7-A494-B037C7FA3866}|..\\Authorize.Application\\Authorize.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.application\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37014782-782A-41A7-A494-B037C7FA3866}|..\\Authorize.Application\\Authorize.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.application\\authorize.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41273B5D-59BA-452D-9A4E-16F0DF2CE743}|..\\Authorize.Infastructure\\Authorize.Infastructure.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.infastructure\\configurations\\jwtconf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D69E86-5EAA-4EF5-8CBF-5B82122A56D3}|..\\Authorize.Domain\\Authorize.Domain.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.domain\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D69E86-5EAA-4EF5-8CBF-5B82122A56D3}|..\\Authorize.Domain\\Authorize.Domain.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.domain\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85EBA56D-2F05-46F7-AA6D-4406D5E379CE}|..\\Authorize.Dal\\Authorize.Dal.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.dal\\configurations\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85EBA56D-2F05-46F7-AA6D-4406D5E379CE}|..\\Authorize.Dal\\Authorize.Dal.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.dal\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D69E86-5EAA-4EF5-8CBF-5B82122A56D3}|..\\Authorize.Domain\\Authorize.Domain.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.domain\\authorize.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D69E86-5EAA-4EF5-8CBF-5B82122A56D3}|..\\Authorize.Domain\\Authorize.Domain.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.domain\\services\\imigrationsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D69E86-5EAA-4EF5-8CBF-5B82122A56D3}|..\\Authorize.Domain\\Authorize.Domain.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.domain\\primitives\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41273B5D-59BA-452D-9A4E-16F0DF2CE743}|..\\Authorize.Infastructure\\Authorize.Infastructure.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.infastructure\\implementations\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41273B5D-59BA-452D-9A4E-16F0DF2CE743}|..\\Authorize.Infastructure\\Authorize.Infastructure.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.infastructure\\implementations\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37014782-782A-41A7-A494-B037C7FA3866}|..\\Authorize.Application\\Authorize.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.application\\commands\\user\\registeruser\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41273B5D-59BA-452D-9A4E-16F0DF2CE743}|..\\Authorize.Infastructure\\Authorize.Infastructure.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.infastructure\\backgroundservices\\initializerolesbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37014782-782A-41A7-A494-B037C7FA3866}|..\\Authorize.Application\\Authorize.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.application\\commands\\user\\loginuser\\loginusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37014782-782A-41A7-A494-B037C7FA3866}|..\\Authorize.Application\\Authorize.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.application\\common\\implementations\\hashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37014782-782A-41A7-A494-B037C7FA3866}|..\\Authorize.Application\\Authorize.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.application\\common\\intefaces\\ihashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37014782-782A-41A7-A494-B037C7FA3866}|..\\Authorize.Application\\Authorize.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.application\\queries\\user\\getuserbyid\\getuserbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37014782-782A-41A7-A494-B037C7FA3866}|..\\Authorize.Application\\Authorize.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.application\\queries\\user\\getuserbyid\\getuserbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37014782-782A-41A7-A494-B037C7FA3866}|..\\Authorize.Application\\Authorize.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.application\\common\\intefaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37014782-782A-41A7-A494-B037C7FA3866}|..\\Authorize.Application\\Authorize.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.application\\contracts\\user\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85EBA56D-2F05-46F7-AA6D-4406D5E379CE}|..\\Authorize.Dal\\Authorize.Dal.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.dal\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D69E86-5EAA-4EF5-8CBF-5B82122A56D3}|..\\Authorize.Domain\\Authorize.Domain.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.domain\\repositories\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85EBA56D-2F05-46F7-AA6D-4406D5E379CE}|..\\Authorize.Dal\\Authorize.Dal.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.dal\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85EBA56D-2F05-46F7-AA6D-4406D5E379CE}|..\\Authorize.Dal\\Authorize.Dal.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.dal\\services\\migrationsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37014782-782A-41A7-A494-B037C7FA3866}|..\\Authorize.Application\\Authorize.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.application\\commands\\user\\acceptemail\\acceptemailhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37014782-782A-41A7-A494-B037C7FA3866}|..\\Authorize.Application\\Authorize.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.application\\commands\\user\\acceptemail\\acceptemailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85EBA56D-2F05-46F7-AA6D-4406D5E379CE}|..\\Authorize.Dal\\Authorize.Dal.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.dal\\migrations\\20250326171845_initialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D69E86-5EAA-4EF5-8CBF-5B82122A56D3}|..\\Authorize.Domain\\Authorize.Domain.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41273B5D-59BA-452D-9A4E-16F0DF2CE743}|..\\Authorize.Infastructure\\Authorize.Infastructure.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.infastructure\\authorize.infastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37014782-782A-41A7-A494-B037C7FA3866}|..\\Authorize.Application\\Authorize.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.application\\common\\intefaces\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41273B5D-59BA-452D-9A4E-16F0DF2CE743}|..\\Authorize.Infastructure\\Authorize.Infastructure.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.infastructure\\configurations\\rabbitmqconf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37014782-782A-41A7-A494-B037C7FA3866}|..\\Authorize.Application\\Authorize.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.application\\contracts\\jwttoken\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85EBA56D-2F05-46F7-AA6D-4406D5E379CE}|..\\Authorize.Dal\\Authorize.Dal.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\authorize\\authorize.dal\\authorize.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppExtention.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.API\\Extentions\\AppExtention.cs",
+              "RelativeDocumentMoniker": "Extentions\\AppExtention.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.API\\Extentions\\AppExtention.cs",
+              "RelativeToolTip": "Extentions\\AppExtention.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:45:54.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.API\\Middlewares\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "Middlewares\\GlobalExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.API\\Middlewares\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "Middlewares\\GlobalExceptionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T17:22:35.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-24T23:39:57.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorizeController.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.API\\Controllers\\AuthorizeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorizeController.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.API\\Controllers\\AuthorizeController.cs",
+              "RelativeToolTip": "Controllers\\AuthorizeController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA8wDkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T16:29:09.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Commands\\User\\RegisterUser\\RegisterUserHandler.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Application\\Commands\\User\\RegisterUser\\RegisterUserHandler.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Commands\\User\\RegisterUser\\RegisterUserHandler.cs",
+              "RelativeToolTip": "..\\Authorize.Application\\Commands\\User\\RegisterUser\\RegisterUserHandler.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowBsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T17:47:39.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "..\\Authorize.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwEUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T22:32:57.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T22:00:09.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Commands\\User\\LoginUser\\LoginUserHandler.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Application\\Commands\\User\\LoginUser\\LoginUserHandler.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Commands\\User\\LoginUser\\LoginUserHandler.cs",
+              "RelativeToolTip": "..\\Authorize.Application\\Commands\\User\\LoginUser\\LoginUserHandler.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T17:47:39.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ActiveUserEvent.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Domain\\Events\\ActiveUserEvent.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Domain\\Events\\ActiveUserEvent.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Domain\\Events\\ActiveUserEvent.cs",
+              "RelativeToolTip": "..\\Authorize.Domain\\Events\\ActiveUserEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T09:17:58.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Dal\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Dal\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Dal\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "..\\Authorize.Dal\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAUwFkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T22:35:12.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Authorize.API.csproj",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.API\\Authorize.API.csproj",
+              "RelativeDocumentMoniker": "Authorize.API.csproj",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.API\\Authorize.API.csproj",
+              "RelativeToolTip": "Authorize.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-26T16:59:58.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ActiveUsersHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Commands\\User\\ActiveUsers\\ActiveUsersHandler.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Application\\Commands\\User\\ActiveUsers\\ActiveUsersHandler.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Commands\\User\\ActiveUsers\\ActiveUsersHandler.cs",
+              "RelativeToolTip": "..\\Authorize.Application\\Commands\\User\\ActiveUsers\\ActiveUsersHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:45:21.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ConfirmUserEmailHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Commands\\User\\ConfirmUserEmail\\ConfirmUserEmailHandler.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Application\\Commands\\User\\ConfirmUserEmail\\ConfirmUserEmailHandler.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Commands\\User\\ConfirmUserEmail\\ConfirmUserEmailHandler.cs",
+              "RelativeToolTip": "..\\Authorize.Application\\Commands\\User\\ConfirmUserEmail\\ConfirmUserEmailHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwCQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T16:31:56.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SendEmailToActiveUserEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\EventHandlers\\User\\SendEmailToActiveUserEventHandler.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Application\\EventHandlers\\User\\SendEmailToActiveUserEventHandler.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\EventHandlers\\User\\SendEmailToActiveUserEventHandler.cs",
+              "RelativeToolTip": "..\\Authorize.Application\\EventHandlers\\User\\SendEmailToActiveUserEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T09:19:53.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Dal\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Dal\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Dal\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "..\\Authorize.Dal\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwDIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T22:34:53.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ActiveUsersCommand.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Commands\\User\\ActiveUsers\\ActiveUsersCommand.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Application\\Commands\\User\\ActiveUsers\\ActiveUsersCommand.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Commands\\User\\ActiveUsers\\ActiveUsersCommand.cs",
+              "RelativeToolTip": "..\\Authorize.Application\\Commands\\User\\ActiveUsers\\ActiveUsersCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:45:20.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConfirmUserEmailCommand.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Commands\\User\\ConfirmUserEmail\\ConfirmUserEmailCommand.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Application\\Commands\\User\\ConfirmUserEmail\\ConfirmUserEmailCommand.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Commands\\User\\ConfirmUserEmail\\ConfirmUserEmailCommand.cs",
+              "RelativeToolTip": "..\\Authorize.Application\\Commands\\User\\ConfirmUserEmail\\ConfirmUserEmailCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T16:31:56.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Infastructure\\Startup.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Infastructure\\Startup.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Infastructure\\Startup.cs",
+              "RelativeToolTip": "..\\Authorize.Infastructure\\Startup.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAIwH8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:08:10.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DomainEventEntity.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Domain\\Primitives\\DomainEventEntity.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Domain\\Primitives\\DomainEventEntity.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Domain\\Primitives\\DomainEventEntity.cs",
+              "RelativeToolTip": "..\\Authorize.Domain\\Primitives\\DomainEventEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T09:11:40.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Dal\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Dal\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Dal\\AppDbContext.cs",
+              "RelativeToolTip": "..\\Authorize.Dal\\AppDbContext.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAUwDQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T22:33:46.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Application\\AssemblyReference.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\AssemblyReference.cs",
+              "RelativeToolTip": "..\\Authorize.Application\\AssemblyReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:07:12.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Startup.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Application\\Startup.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Startup.cs",
+              "RelativeToolTip": "..\\Authorize.Application\\Startup.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:07:12.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Authorize.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Authorize.Application.csproj",
+              "RelativeDocumentMoniker": "..\\Authorize.Application\\Authorize.Application.csproj",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Authorize.Application.csproj",
+              "RelativeToolTip": "..\\Authorize.Application\\Authorize.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T18:05:37.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Domain\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Domain\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Domain\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "..\\Authorize.Domain\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T22:32:57.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "JwtConf.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Infastructure\\Configurations\\JwtConf.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Infastructure\\Configurations\\JwtConf.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Infastructure\\Configurations\\JwtConf.cs",
+              "RelativeToolTip": "..\\Authorize.Infastructure\\Configurations\\JwtConf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:28:40.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Domain\\Repositories\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Domain\\Repositories\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Domain\\Repositories\\IUnitOfWork.cs",
+              "RelativeToolTip": "..\\Authorize.Domain\\Repositories\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T22:34:01.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RoleConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Dal\\Configurations\\RoleConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Dal\\Configurations\\RoleConfiguration.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Dal\\Configurations\\RoleConfiguration.cs",
+              "RelativeToolTip": "..\\Authorize.Dal\\Configurations\\RoleConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T22:35:54.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Dal\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Dal\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Dal\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "..\\Authorize.Dal\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T22:35:53.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IDomainEvent.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Domain\\Primitives\\IDomainEvent.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Domain\\Primitives\\IDomainEvent.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Domain\\Primitives\\IDomainEvent.cs",
+              "RelativeToolTip": "..\\Authorize.Domain\\Primitives\\IDomainEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T09:15:29.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Authorize.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Domain\\Authorize.Domain.csproj",
+              "RelativeDocumentMoniker": "..\\Authorize.Domain\\Authorize.Domain.csproj",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Domain\\Authorize.Domain.csproj",
+              "RelativeToolTip": "..\\Authorize.Domain\\Authorize.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-24T22:30:49.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IMigrationsService.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Domain\\Services\\IMigrationsService.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Domain\\Services\\IMigrationsService.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Domain\\Services\\IMigrationsService.cs",
+              "RelativeToolTip": "..\\Authorize.Domain\\Services\\IMigrationsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T22:32:58.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Infastructure\\Implementations\\JwtService.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Infastructure\\Implementations\\JwtService.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Infastructure\\Implementations\\JwtService.cs",
+              "RelativeToolTip": "..\\Authorize.Infastructure\\Implementations\\JwtService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowD0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:24:24.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CacheService.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Infastructure\\Implementations\\CacheService.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Infastructure\\Implementations\\CacheService.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Infastructure\\Implementations\\CacheService.cs",
+              "RelativeToolTip": "..\\Authorize.Infastructure\\Implementations\\CacheService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAlwCsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:09:44.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RegisterUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Commands\\User\\RegisterUser\\RegisterUserCommand.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Application\\Commands\\User\\RegisterUser\\RegisterUserCommand.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Commands\\User\\RegisterUser\\RegisterUserCommand.cs",
+              "RelativeToolTip": "..\\Authorize.Application\\Commands\\User\\RegisterUser\\RegisterUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T17:47:39.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "InitializeRolesBackgroundService.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Infastructure\\BackgroundServices\\InitializeRolesBackgroundService.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Infastructure\\BackgroundServices\\InitializeRolesBackgroundService.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Infastructure\\BackgroundServices\\InitializeRolesBackgroundService.cs",
+              "RelativeToolTip": "..\\Authorize.Infastructure\\BackgroundServices\\InitializeRolesBackgroundService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAWwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T17:48:16.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "HashService.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Common\\Implementations\\HashService.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Application\\Common\\Implementations\\HashService.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Common\\Implementations\\HashService.cs",
+              "RelativeToolTip": "..\\Authorize.Application\\Common\\Implementations\\HashService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:09:29.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IHashService.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Common\\Intefaces\\IHashService.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Application\\Common\\Intefaces\\IHashService.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Common\\Intefaces\\IHashService.cs",
+              "RelativeToolTip": "..\\Authorize.Application\\Common\\Intefaces\\IHashService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:09:16.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LoginUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Commands\\User\\LoginUser\\LoginUserCommand.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Application\\Commands\\User\\LoginUser\\LoginUserCommand.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Commands\\User\\LoginUser\\LoginUserCommand.cs",
+              "RelativeToolTip": "..\\Authorize.Application\\Commands\\User\\LoginUser\\LoginUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T17:47:39.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GetUserByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Queries\\User\\GetUserById\\GetUserByIdQuery.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Application\\Queries\\User\\GetUserById\\GetUserByIdQuery.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Queries\\User\\GetUserById\\GetUserByIdQuery.cs",
+              "RelativeToolTip": "..\\Authorize.Application\\Queries\\User\\GetUserById\\GetUserByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:12:43.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GetUserByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Queries\\User\\GetUserById\\GetUserByIdHandler.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Application\\Queries\\User\\GetUserById\\GetUserByIdHandler.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Queries\\User\\GetUserById\\GetUserByIdHandler.cs",
+              "RelativeToolTip": "..\\Authorize.Application\\Queries\\User\\GetUserById\\GetUserByIdHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:12:43.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Common\\Intefaces\\IJwtService.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Application\\Common\\Intefaces\\IJwtService.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Common\\Intefaces\\IJwtService.cs",
+              "RelativeToolTip": "..\\Authorize.Application\\Common\\Intefaces\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:22:37.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Contracts\\User\\UserResponse.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Application\\Contracts\\User\\UserResponse.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Contracts\\User\\UserResponse.cs",
+              "RelativeToolTip": "..\\Authorize.Application\\Contracts\\User\\UserResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T18:31:59.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Dal\\Repositories\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Dal\\Repositories\\RoleRepository.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Dal\\Repositories\\RoleRepository.cs",
+              "RelativeToolTip": "..\\Authorize.Dal\\Repositories\\RoleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T22:34:52.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IRoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Domain\\Repositories\\IRoleRepository.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Domain\\Repositories\\IRoleRepository.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Domain\\Repositories\\IRoleRepository.cs",
+              "RelativeToolTip": "..\\Authorize.Domain\\Repositories\\IRoleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T22:33:16.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Dal\\Startup.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Dal\\Startup.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Dal\\Startup.cs",
+              "RelativeToolTip": "..\\Authorize.Dal\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:16:05.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MigrationsService.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Dal\\Services\\MigrationsService.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Dal\\Services\\MigrationsService.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Dal\\Services\\MigrationsService.cs",
+              "RelativeToolTip": "..\\Authorize.Dal\\Services\\MigrationsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T22:34:17.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AcceptEmailHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Commands\\User\\AcceptEmail\\AcceptEmailHandler.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Application\\Commands\\User\\AcceptEmail\\AcceptEmailHandler.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Commands\\User\\AcceptEmail\\AcceptEmailHandler.cs",
+              "RelativeToolTip": "..\\Authorize.Application\\Commands\\User\\AcceptEmail\\AcceptEmailHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T17:33:49.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AcceptEmailCommand.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Commands\\User\\AcceptEmail\\AcceptEmailCommand.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Application\\Commands\\User\\AcceptEmail\\AcceptEmailCommand.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Commands\\User\\AcceptEmail\\AcceptEmailCommand.cs",
+              "RelativeToolTip": "..\\Authorize.Application\\Commands\\User\\AcceptEmail\\AcceptEmailCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T17:33:49.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20250326171845_initialize.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Dal\\Migrations\\20250326171845_initialize.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Dal\\Migrations\\20250326171845_initialize.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Dal\\Migrations\\20250326171845_initialize.cs",
+              "RelativeToolTip": "..\\Authorize.Dal\\Migrations\\20250326171845_initialize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T17:18:54.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Domain\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "..\\Authorize.Domain\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T22:32:57.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Authorize.Infastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Infastructure\\Authorize.Infastructure.csproj",
+              "RelativeDocumentMoniker": "..\\Authorize.Infastructure\\Authorize.Infastructure.csproj",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Infastructure\\Authorize.Infastructure.csproj",
+              "RelativeToolTip": "..\\Authorize.Infastructure\\Authorize.Infastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T18:07:37.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ICacheService.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Common\\Intefaces\\ICacheService.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Application\\Common\\Intefaces\\ICacheService.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Common\\Intefaces\\ICacheService.cs",
+              "RelativeToolTip": "..\\Authorize.Application\\Common\\Intefaces\\ICacheService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:09:15.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "RabbitMqConf.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Infastructure\\Configurations\\RabbitMqConf.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Infastructure\\Configurations\\RabbitMqConf.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Infastructure\\Configurations\\RabbitMqConf.cs",
+              "RelativeToolTip": "..\\Authorize.Infastructure\\Configurations\\RabbitMqConf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:28:40.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "TokenResponse.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Contracts\\JwtToken\\TokenResponse.cs",
+              "RelativeDocumentMoniker": "..\\Authorize.Application\\Contracts\\JwtToken\\TokenResponse.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Application\\Contracts\\JwtToken\\TokenResponse.cs",
+              "RelativeToolTip": "..\\Authorize.Application\\Contracts\\JwtToken\\TokenResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:25:21.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Authorize.Dal.csproj",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Dal\\Authorize.Dal.csproj",
+              "RelativeDocumentMoniker": "..\\Authorize.Dal\\Authorize.Dal.csproj",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Authorize\\Authorize.Dal\\Authorize.Dal.csproj",
+              "RelativeToolTip": "..\\Authorize.Dal\\Authorize.Dal.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-24T22:33:21.566Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

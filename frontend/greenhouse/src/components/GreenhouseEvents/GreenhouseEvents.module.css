@@ -1,0 +1,91 @@
+.GreenhouseEvents__Main {
+  font-family: var(--font-family);
+  font-weight: 600;
+  font-size: 20px;
+  color: var(--font-color-shadow);
+  width: 100%;
+  height: 100%;
+  border-radius: 5px;
+  border: 1px solid var(--font-color-shadow);
+  box-shadow: 3px 3px var(--font-color-shadow);
+}
+
+.GreenhouseEvents__HeaderInfo {
+  display: flex;
+  align-items: end;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px 35px;
+  border-bottom: 1px solid var(--font-color-shadow);
+}
+
+.GreenhouseEvents__HeaderInfo * + * {
+  margin-top: 10px;
+}
+
+.GreenhouseEvents__GreenhouseName {
+  width: 200px;
+  text-align: start;
+  color: var(--primary-color);
+  font-size: 30px;
+}
+
+.GreenhouseEvents__GreenhouseInfo {
+  width: 200px;
+  text-align: start;
+}
+
+.GreenhouseEvents__DatePickerComponent {
+  font-family: var(--font-family);
+  color: var(--font-color-shadow);
+  border-radius: 5px;
+  border: 1px solid var(--font-color-shadow);
+  box-shadow: 3px 3px var(--font-color-shadow);
+}
+
+.GreenhouseEvents__Events {
+  margin: 40px 50px;
+  height: 420px;
+
+}
+
+.GreenhouseEvents__Events_Header {
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+  border-top: 2px solid var(--primary-color);
+  background-color: rgba(30, 236, 150, 0.438);
+  height: 10%;
+  padding: 10px 20px;
+}
+
+.GreenhouseEvents__Events_Content {
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom: 2px solid var(--primary-color);
+  border-right: 2px solid var(--primary-color);
+  border-left: 2px solid var(--primary-color);
+  height: 90%;
+
+  overflow: auto;
+}
+
+.GreenhouseEvents__Events_EventCart {
+  border-top: 2px solid var(--primary-color);
+}
+
+.GreenhouseEvents__DatePicker {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  padding-right: 30px;
+  padding-top: 30px;
+  border-top: 1px solid var(--font-color-shadow);
+}
+
+.GreenhouseEvents__AddGreenhouse {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  margin-top: 40px;
+  margin-right: 50px;
+}

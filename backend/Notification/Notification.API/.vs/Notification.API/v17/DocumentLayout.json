@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Notification\\Notification.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{501646EA-B28F-44EC-BEC8-D2C6D9AE515C}|..\\Notification.Contracts\\Notification.Contracts.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\notification\\notification.contracts\\email\\sendemailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE3C3A4-13AF-4BB7-B89C-9513E2D6A846}|..\\Notification.Application\\Notification.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\notification\\notification.application\\common\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D651A7E-2BE1-41FD-B159-CA9F7F2F8A46}|..\\Notification.Infastructure\\Notification.Infastructure.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\notification\\notification.infastructure\\implementations\\sendemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D651A7E-2BE1-41FD-B159-CA9F7F2F8A46}|..\\Notification.Infastructure\\Notification.Infastructure.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\notification\\notification.infastructure\\notification.infastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD7B8CE-5F5E-4B31-ADAD-A90EC33CE8E7}|Notification.API.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\notification\\notification.api\\notification.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DDD7B8CE-5F5E-4B31-ADAD-A90EC33CE8E7}|Notification.API.csproj|solutionrelative:notification.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD7B8CE-5F5E-4B31-ADAD-A90EC33CE8E7}|Notification.API.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\notification\\notification.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD7B8CE-5F5E-4B31-ADAD-A90EC33CE8E7}|Notification.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D651A7E-2BE1-41FD-B159-CA9F7F2F8A46}|..\\Notification.Infastructure\\Notification.Infastructure.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\notification\\notification.infastructure\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501646EA-B28F-44EC-BEC8-D2C6D9AE515C}|..\\Notification.Contracts\\Notification.Contracts.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\notification\\notification.contracts\\notification.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE3C3A4-13AF-4BB7-B89C-9513E2D6A846}|..\\Notification.Application\\Notification.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\notification\\notification.application\\notification.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD7B8CE-5F5E-4B31-ADAD-A90EC33CE8E7}|Notification.API.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\notification\\notification.api\\notification.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{DDD7B8CE-5F5E-4B31-ADAD-A90EC33CE8E7}|Notification.API.csproj|solutionrelative:notification.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D651A7E-2BE1-41FD-B159-CA9F7F2F8A46}|..\\Notification.Infastructure\\Notification.Infastructure.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\notification\\notification.infastructure\\configurations\\rabbitmqconf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D651A7E-2BE1-41FD-B159-CA9F7F2F8A46}|..\\Notification.Infastructure\\Notification.Infastructure.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\notification\\notification.infastructure\\configurations\\smtpconf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE3C3A4-13AF-4BB7-B89C-9513E2D6A846}|..\\Notification.Application\\Notification.Application.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\notification\\notification.application\\consumers\\email\\sentemailconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Notification\\Notification.Infastructure\\Startup.cs",
+              "RelativeDocumentMoniker": "..\\Notification.Infastructure\\Startup.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Notification\\Notification.Infastructure\\Startup.cs",
+              "RelativeToolTip": "..\\Notification.Infastructure\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:56:10.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Notification\\Notification.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Notification\\Notification.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:22:52.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Notification.API.csproj",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Notification\\Notification.API\\Notification.API.csproj",
+              "RelativeDocumentMoniker": "Notification.API.csproj",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Notification\\Notification.API\\Notification.API.csproj",
+              "RelativeToolTip": "Notification.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T23:34:34.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SendEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Notification\\Notification.Infastructure\\Implementations\\SendEmailService.cs",
+              "RelativeDocumentMoniker": "..\\Notification.Infastructure\\Implementations\\SendEmailService.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Notification\\Notification.Infastructure\\Implementations\\SendEmailService.cs",
+              "RelativeToolTip": "..\\Notification.Infastructure\\Implementations\\SendEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:59:10.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Notification\\Notification.Application\\Common\\Interfaces\\INotificationService.cs",
+              "RelativeDocumentMoniker": "..\\Notification.Application\\Common\\Interfaces\\INotificationService.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Notification\\Notification.Application\\Common\\Interfaces\\INotificationService.cs",
+              "RelativeToolTip": "..\\Notification.Application\\Common\\Interfaces\\INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:58:45.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SendEmailRequest.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Notification\\Notification.Contracts\\Email\\SendEmailRequest.cs",
+              "RelativeDocumentMoniker": "..\\Notification.Contracts\\Email\\SendEmailRequest.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Notification\\Notification.Contracts\\Email\\SendEmailRequest.cs",
+              "RelativeToolTip": "..\\Notification.Contracts\\Email\\SendEmailRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:56:21.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Notification.Infastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Notification\\Notification.Infastructure\\Notification.Infastructure.csproj",
+              "RelativeDocumentMoniker": "..\\Notification.Infastructure\\Notification.Infastructure.csproj",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Notification\\Notification.Infastructure\\Notification.Infastructure.csproj",
+              "RelativeToolTip": "..\\Notification.Infastructure\\Notification.Infastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T20:55:18.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Notification.Contracts.csproj",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Notification\\Notification.Contracts\\Notification.Contracts.csproj",
+              "RelativeDocumentMoniker": "..\\Notification.Contracts\\Notification.Contracts.csproj",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Notification\\Notification.Contracts\\Notification.Contracts.csproj",
+              "RelativeToolTip": "..\\Notification.Contracts\\Notification.Contracts.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T20:56:12.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Notification.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Notification\\Notification.Application\\Notification.Application.csproj",
+              "RelativeDocumentMoniker": "..\\Notification.Application\\Notification.Application.csproj",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Notification\\Notification.Application\\Notification.Application.csproj",
+              "RelativeToolTip": "..\\Notification.Application\\Notification.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T20:57:27.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Notification.API",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Notification\\Notification.API\\Notification.API.csproj",
+              "RelativeDocumentMoniker": "Notification.API.csproj",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Notification\\Notification.API\\Notification.API.csproj",
+              "RelativeToolTip": "Notification.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T22:46:17.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SentEmailConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Notification\\Notification.Application\\Consumers\\Email\\SentEmailConsumer.cs",
+              "RelativeDocumentMoniker": "..\\Notification.Application\\Consumers\\Email\\SentEmailConsumer.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Notification\\Notification.Application\\Consumers\\Email\\SentEmailConsumer.cs",
+              "RelativeToolTip": "..\\Notification.Application\\Consumers\\Email\\SentEmailConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T21:26:48.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SmtpConf.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Notification\\Notification.Infastructure\\Configurations\\SmtpConf.cs",
+              "RelativeDocumentMoniker": "..\\Notification.Infastructure\\Configurations\\SmtpConf.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Notification\\Notification.Infastructure\\Configurations\\SmtpConf.cs",
+              "RelativeToolTip": "..\\Notification.Infastructure\\Configurations\\SmtpConf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:56:10.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RabbitMqConf.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Notification\\Notification.Infastructure\\Configurations\\RabbitMqConf.cs",
+              "RelativeDocumentMoniker": "..\\Notification.Infastructure\\Configurations\\RabbitMqConf.cs",
+              "ToolTip": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Notification\\Notification.Infastructure\\Configurations\\RabbitMqConf.cs",
+              "RelativeToolTip": "..\\Notification.Infastructure\\Configurations\\RabbitMqConf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:56:09.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

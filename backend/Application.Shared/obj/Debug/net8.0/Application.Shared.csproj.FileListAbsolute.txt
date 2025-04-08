@@ -1,0 +1,11 @@
+C:\Users\zelen\Барышев\Lab12\backend\Application.Shared\bin\Debug\net8.0\Application.Shared.deps.json
+C:\Users\zelen\Барышев\Lab12\backend\Application.Shared\bin\Debug\net8.0\Application.Shared.dll
+C:\Users\zelen\Барышев\Lab12\backend\Application.Shared\bin\Debug\net8.0\Application.Shared.pdb
+C:\Users\zelen\Барышев\Lab12\backend\Application.Shared\obj\Debug\net8.0\Application.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zelen\Барышев\Lab12\backend\Application.Shared\obj\Debug\net8.0\Application.Shared.AssemblyInfoInputs.cache
+C:\Users\zelen\Барышев\Lab12\backend\Application.Shared\obj\Debug\net8.0\Application.Shared.AssemblyInfo.cs
+C:\Users\zelen\Барышев\Lab12\backend\Application.Shared\obj\Debug\net8.0\Application.Shared.csproj.CoreCompileInputs.cache
+C:\Users\zelen\Барышев\Lab12\backend\Application.Shared\obj\Debug\net8.0\Application.Shared.dll
+C:\Users\zelen\Барышев\Lab12\backend\Application.Shared\obj\Debug\net8.0\refint\Application.Shared.dll
+C:\Users\zelen\Барышев\Lab12\backend\Application.Shared\obj\Debug\net8.0\Application.Shared.pdb
+C:\Users\zelen\Барышев\Lab12\backend\Application.Shared\obj\Debug\net8.0\ref\Application.Shared.dll

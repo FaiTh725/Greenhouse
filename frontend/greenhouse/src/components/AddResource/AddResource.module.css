@@ -1,0 +1,12 @@
+.AddResource__Main {
+  padding: 40px 0;
+}
+
+.AddResource__FromInput + .AddResource__FromInput {
+  margin-top: 20px;
+}
+
+.AddResource__BtnAdd {
+  margin-top: 50px;
+  padding: 0px 40px;
+}

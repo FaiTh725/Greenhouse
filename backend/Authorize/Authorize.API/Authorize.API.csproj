@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>0810b87a-b79e-471e-ad04-68e389cadb90</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Authorize.Application\Authorize.Application.csproj" />
+    <ProjectReference Include="..\Authorize.Dal\Authorize.Dal.csproj" />
+    <ProjectReference Include="..\Authorize.Domain\Authorize.Domain.csproj" />
+    <ProjectReference Include="..\Authorize.Infastructure\Authorize.Infastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Application.Shared">
+      <HintPath>..\..\Application.Shared\bin\Debug\net8.0\Application.Shared.dll</HintPath>
+    </Reference>
+    <Reference Include="Greenhouse.Contracts">
+      <HintPath>..\..\Greenhouse\Greenhouse.Contracts\bin\Debug\net8.0\Greenhouse.Contracts.dll</HintPath>
+    </Reference>
+    <Reference Include="Notification.Contracts">
+      <HintPath>..\..\Notification\Notification.Contracts\bin\Debug\net8.0\Notification.Contracts.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

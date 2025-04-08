@@ -1,0 +1,12 @@
+C:\Users\zelen\Барышев\Lab12\backend\Authorize\Authorize.Domain\bin\Debug\net8.0\Authorize.Domain.deps.json
+C:\Users\zelen\Барышев\Lab12\backend\Authorize\Authorize.Domain\bin\Debug\net8.0\Authorize.Domain.dll
+C:\Users\zelen\Барышев\Lab12\backend\Authorize\Authorize.Domain\bin\Debug\net8.0\Authorize.Domain.pdb
+C:\Users\zelen\Барышев\Lab12\backend\Authorize\Authorize.Domain\obj\Debug\net8.0\Authorize.Domain.csproj.AssemblyReference.cache
+C:\Users\zelen\Барышев\Lab12\backend\Authorize\Authorize.Domain\obj\Debug\net8.0\Authorize.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zelen\Барышев\Lab12\backend\Authorize\Authorize.Domain\obj\Debug\net8.0\Authorize.Domain.AssemblyInfoInputs.cache
+C:\Users\zelen\Барышев\Lab12\backend\Authorize\Authorize.Domain\obj\Debug\net8.0\Authorize.Domain.AssemblyInfo.cs
+C:\Users\zelen\Барышев\Lab12\backend\Authorize\Authorize.Domain\obj\Debug\net8.0\Authorize.Domain.csproj.CoreCompileInputs.cache
+C:\Users\zelen\Барышев\Lab12\backend\Authorize\Authorize.Domain\obj\Debug\net8.0\Authorize.Domain.dll
+C:\Users\zelen\Барышев\Lab12\backend\Authorize\Authorize.Domain\obj\Debug\net8.0\refint\Authorize.Domain.dll
+C:\Users\zelen\Барышев\Lab12\backend\Authorize\Authorize.Domain\obj\Debug\net8.0\Authorize.Domain.pdb
+C:\Users\zelen\Барышев\Lab12\backend\Authorize\Authorize.Domain\obj\Debug\net8.0\ref\Authorize.Domain.dll

@@ -1,0 +1,52 @@
+.PopupWindow__Main {
+  width: 100vw;
+  height: 100vh;
+  background-color: #6d6d6d88;
+  font-family: var(--font-family);
+  font-weight: 600;
+  font-size: 20px;
+  color: var(--font-color-black);
+  position: fixed;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 100;
+  padding: 0;
+  margin: 0;
+  transform: translate();
+}
+
+.PopupWindow__Hiden {
+  opacity: 0;
+  pointer-events: none;
+  scale: 0;
+}
+
+.PopupWindow__Wrapper {
+  background-color: #fff;
+}
+
+.PopupWindow__ActionTop {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  border-bottom: 1px solid var(--font-color-black);
+}
+
+.PopupWindow__CloseBtn {
+  margin: 13px;
+}
+
+.PopupWindow__Wrapper {
+  border-radius: 5px;
+  border: 1px solid var(--font-color-black);
+  box-shadow: 3px 3px var(--font-color-black);
+  min-width: 350px;
+}
+
+.PopupWindow__Content {
+  padding: 13px;
+  padding-bottom: 20px;
+}

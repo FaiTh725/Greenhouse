@@ -1,0 +1,107 @@
+.Home__Main {
+  font-family: var(--font-family);
+  font-weight: 600;
+  font-size: 20px;
+  color: #fff;
+  padding-bottom: 200px;
+}
+
+.Home__ErrorMessage {
+  color: var(--font-color-shadow);
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  padding: 40px 60px;
+}
+
+.Home__Header_Welcome {
+  text-align: center;
+  padding-top: 150px;
+  padding-bottom: 300px;
+  background-color: var(--primary-color);
+}
+
+.Home__Header_WelcomeText {
+  font-size: 30px;
+  opacity: 0;
+  animation: show .7s ease-in;
+  animation-fill-mode: forwards;
+}
+
+.Home__Header_Text {
+  margin-top: 30px;
+  opacity: 0;  
+  animation: show .5s ease-in;
+  animation-delay: .3s;
+  animation-fill-mode: forwards;
+}
+
+.Home__Greenhouses {
+  max-width: 1400px;
+  margin: 0 auto;
+  margin-top: 200px;
+  color: var(--font-color-black);
+  padding: 0 30px;
+}
+
+.Home__Greenhouses_Data {
+  margin-top: 100px;
+  display: flex;
+}
+
+.Home__Greenhouses_LeftBar {
+  height: 800px;
+  display: flex;
+  flex-direction: column;
+}
+
+.Home__Greenhouses_CenterBar {
+  flex: 1;
+  margin-left: 50px;
+  height: 850px;
+}
+
+.Home__Greenhouses_HeaderText {
+  font-size: 30px;
+  text-align: center;
+} 
+
+@keyframes show {
+  from {
+    opacity: 0;
+    transform: translateY(150px) scale(0.7);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0px) scale(1);
+  }
+}
+
+.Home__Greenhouses_GreenhousesList {
+  flex-grow: 1;
+}
+
+.Home__Greenhouses_Pagination {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.Home__Greenhouses_AddGreenhouse {
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  padding-right: 50px;
+}
+
+.Home__Greenhouses_GreenhouseEmpty {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 40px;
+  color: var(--font-color-shadow);
+}

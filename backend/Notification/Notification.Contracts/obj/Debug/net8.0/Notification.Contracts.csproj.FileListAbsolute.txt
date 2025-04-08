@@ -1,0 +1,11 @@
+C:\Users\zelen\Барышев\Lab12\backend\Notification\Notification.Contracts\bin\Debug\net8.0\Notification.Contracts.deps.json
+C:\Users\zelen\Барышев\Lab12\backend\Notification\Notification.Contracts\bin\Debug\net8.0\Notification.Contracts.dll
+C:\Users\zelen\Барышев\Lab12\backend\Notification\Notification.Contracts\bin\Debug\net8.0\Notification.Contracts.pdb
+C:\Users\zelen\Барышев\Lab12\backend\Notification\Notification.Contracts\obj\Debug\net8.0\Notification.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zelen\Барышев\Lab12\backend\Notification\Notification.Contracts\obj\Debug\net8.0\Notification.Contracts.AssemblyInfoInputs.cache
+C:\Users\zelen\Барышев\Lab12\backend\Notification\Notification.Contracts\obj\Debug\net8.0\Notification.Contracts.AssemblyInfo.cs
+C:\Users\zelen\Барышев\Lab12\backend\Notification\Notification.Contracts\obj\Debug\net8.0\Notification.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\zelen\Барышев\Lab12\backend\Notification\Notification.Contracts\obj\Debug\net8.0\Notification.Contracts.dll
+C:\Users\zelen\Барышев\Lab12\backend\Notification\Notification.Contracts\obj\Debug\net8.0\refint\Notification.Contracts.dll
+C:\Users\zelen\Барышев\Lab12\backend\Notification\Notification.Contracts\obj\Debug\net8.0\Notification.Contracts.pdb
+C:\Users\zelen\Барышев\Lab12\backend\Notification\Notification.Contracts\obj\Debug\net8.0\ref\Notification.Contracts.dll

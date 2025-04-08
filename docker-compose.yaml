@@ -1,0 +1,166 @@
+version: "3.8"
+
+name: "GreenHouse"
+
+services:
+  report_api_greenhouse:
+    image: greenhouse_report
+    container_name: report_api_greenhouse
+    ports:
+      - "5301:5301"
+      - "5302:5302"
+    environment:
+      - RabbitMq__UserPassword=goblinusik111W
+      - RabbitMq__UserLogin=FaITh725
+      - RabbitMq__Host=rabbitmq
+      - JwtSettings__SecretKey=SuperSecretKey8234064.SaltyForKey023.495
+      - JwtSettings__Issuer=FaITh
+      - JwtSettings__ExpirationTime=15
+      - JwtSettings__Audience=Audience
+      - ClientUrl=http://localhost:5173
+      - ASPNETCORE_URLS=https://+:5302;http://+:5301
+      - ASPNETCORE_Kestrel__Certificates__Default__Password=goblinusik111W
+      - ASPNETCORE_Kestrel__Certificates__Default__Path=/https/aspnetapp.pfx
+    volumes:
+      - .\certs:/https:ro
+    depends_on:
+      - rabbitmq
+    networks:
+      - rabbitmq_net
+      
+  greenhouse_api_greenhouse:
+    image: greenhouse_greenhouse
+    container_name: greenhouse_api_greenhouse
+    ports:
+      - "5201:5201"
+      - "5202:5202"
+    environment:
+      - RabbitMq__UserPassword=goblinusik111W
+      - RabbitMq__UserLogin=FaITh725
+      - RabbitMq__Host=rabbitmq
+      - JwtSettings__SecretKey=SuperSecretKey8234064.SaltyForKey023.495
+      - JwtSettings__Issuer=FaITh
+      - JwtSettings__ExpirationTime=15
+      - JwtSettings__Audience=Audience
+      - ConnectionStrings__RedisConnection=redis_cache:6379,password=goblinusik111W
+      - ConnectionStrings__NpgConnection=Host=pstgres_db;Username=faith725;Password=goblinusik111W;Database=Greenhouse;Port=5432
+      - ClientUrl=http://localhost:5173
+      - ASPNETCORE_URLS=https://+:5202;http://+:5201
+      - ASPNETCORE_Kestrel__Certificates__Default__Password=goblinusik111W
+      - ASPNETCORE_Kestrel__Certificates__Default__Path=/https/aspnetapp.pfx
+    volumes:
+      - .\certs:/https:ro
+    depends_on:
+      - rabbitmq
+      - pstgres_db
+      - redis_cache
+    networks:
+      - rabbitmq_net
+      - greenhouse_db_net
+      - redis_cache_net
+
+  authorize_api_greenhouse:
+    image: greenhouse_authorize
+    container_name: authorize_api_greenhouse
+    ports:
+      - "5101:5101"
+      - "5102:5102"
+    environment:
+      - RabbitMq__UserPassword=goblinusik111W
+      - RabbitMq__UserLogin=FaITh725
+      - RabbitMq__Host=rabbitmq
+      - ConnectionStrings__RedisCacheConnection=redis_cache:6379,password=goblinusik111W
+      - ConnectionStrings__NpgConnection=Host=pstgres_db;Username=faith725;Password=goblinusik111W;Database=GreenhouseAuth;Port=5432
+      - JwtSettings__SecretKey=SuperSecretKey8234064.SaltyForKey023.495
+      - JwtSettings__Issuer=FaITh
+      - JwtSettings__ExpirationTime=15
+      - JwtSettings__Audience=Audience
+      - ClientUrl=http://localhost:5173
+      - ASPNETCORE_URLS=https://+:5102;http://+:5101
+      - ASPNETCORE_Kestrel__Certificates__Default__Password=goblinusik111W
+      - ASPNETCORE_Kestrel__Certificates__Default__Path=/https/aspnetapp.pfx
+    volumes:
+      - .\certs:/https:ro
+    depends_on:
+      - rabbitmq
+      - pstgres_db
+      - redis_cache
+    networks:
+      - rabbitmq_net
+      - greenhouse_db_net
+      - redis_cache_net
+
+  notification_api:
+    image: greenhouse_notification
+    container_name: notification_api
+    ports:
+      - "5001:5001"
+      - "5002:5002"
+    environment:
+      - RabbitMqSetting__UserPassword=goblinusik111W
+      - RabbitMqSetting__UserLogin=FaITh725
+      - RabbitMqSetting__Host=rabbitmq
+      - EmailSettings__ReciverEmail=courseproject2024@mail.ru
+      - EmailSettings__Password=htmnrkmqU07kNjmFBSyB
+      - ASPNETCORE_URLS=https://+:5002;http://+:5001
+      - ASPNETCORE_Kestrel__Certificates__Default__Password=goblinusik111W
+      - ASPNETCORE_Kestrel__Certificates__Default__Path=/https/aspnetapp.pfx
+    volumes:
+      - .\certs:/https:ro
+    depends_on:
+      - rabbitmq
+    networks:
+      - rabbitmq_net
+
+  pstgres_db:
+    restart: always
+    image: postgres
+    container_name: greenhouse_db
+    ports:
+      - "5555:5432"
+    environment:
+      - POSTGRES_PASSWORD=goblinusik111W
+      - POSTGRES_USER=faith725
+      - POSTGRES_DB=GreenhouseAuth
+      - PGDATA=/var/lib/postgresql/data/pgdata
+    volumes:
+      - greenhouse_db_volume:/var/lib/postgresql/data/pgdata
+    networks:
+      - greenhouse_db_net
+
+  rabbitmq:
+    image: rabbitmq:management
+    container_name: greenhouse_message_broker
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    environment:
+      - RABBITMQ_DEFAULT_USER=FaITh725
+      - RABBITMQ_DEFAULT_PASS=goblinusik111W
+    networks:
+      - rabbitmq_net
+
+  redis_cache:
+    image: redis
+    container_name: greenhouse_redis_cache
+    restart: always
+    ports:
+      - "6379:6379"
+    environment:
+      - REDIS_PASSWORD=goblinusik111W
+      - REDIS_ARGS=--requirepass goblinusik111W
+    networks:
+      - redis_cache_net
+
+networks:
+  greenhouse_db_net:
+    driver: bridge
+  redis_cache_net:
+    driver: bridge
+  rabbitmq_net:
+    driver: bridge
+
+volumes:
+  greenhouse_db_volume:
+    driver: local
+

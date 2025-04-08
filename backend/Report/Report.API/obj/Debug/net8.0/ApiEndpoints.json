@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Report.API.Controllers.ReportController",
+    "Method": "GetEmployePerfomance",
+    "RelativePath": "api/Report/GetEmployePerfomance",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Report.API.Controllers.ReportController",
+    "Method": "GetSpendingResource",
+    "RelativePath": "api/Report/GetSpendingResource",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "eventId",
+        "Type": "System.Int64",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
