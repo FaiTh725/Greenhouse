@@ -21,3 +21,4 @@ C:\Users\zelen\Барышев\Lab12\backend\Authorize\Authorize.Infastructure\bi
 C:\Users\zelen\Барышев\Lab12\backend\Authorize\Authorize.Infastructure\bin\Debug\net8.0\Notification.Contracts.pdb
 C:\Users\zelen\Барышев\Lab12\backend\Authorize\Authorize.Infastructure\bin\Debug\net8.0\Greenhouse.Contracts.dll
 C:\Users\zelen\Барышев\Lab12\backend\Authorize\Authorize.Infastructure\bin\Debug\net8.0\Greenhouse.Contracts.pdb
+C:\Users\zelen\Барышев\Lab12\backend\Authorize\Authorize.Infastructure\obj\Debug\net8.0\Authorize.Infastructure.sourcelink.json

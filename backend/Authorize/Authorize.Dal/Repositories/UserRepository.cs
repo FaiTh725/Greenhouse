@@ -41,6 +41,14 @@ namespace Authorize.Dal.Repositories
                     x.IsActive == true);
         }
 
+        public async Task<IEnumerable<User>> GetUnconfirmedUsers()
+        {
+            return await context.Users
+                .Where(x => x.IsActive == false)
+                .Include(user => user.Role)
+                .ToListAsync();
+        }
+
         public async Task<User?> GetUser(string email)
         {
             return await context.Users

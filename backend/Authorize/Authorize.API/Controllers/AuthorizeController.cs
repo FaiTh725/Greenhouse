@@ -6,6 +6,7 @@ using Authorize.Application.Commands.User.RegisterUser;
 using Authorize.Application.Common.Intefaces;
 using Authorize.Application.Contracts.JwtToken;
 using Authorize.Application.Contracts.User;
+using Authorize.Application.Queries.User.GetUnconfirmedUsers;
 using Authorize.Application.Queries.User.GetUserById;
 using Authorize.Domain.Entities;
 using MediatR;
@@ -105,6 +106,16 @@ namespace Authorize.API.Controllers
             await mediator.Send(request);
 
             return Ok();
+        }
+
+        [HttpGet("[action]")]
+        [Authorize]
+        public async Task<IActionResult> GetUnConfirmedUsers()
+        {
+            var users = await mediator
+                .Send(new GetUnconfirmedUsersQuery());
+        
+            return Ok(users);
         }
     }
 }

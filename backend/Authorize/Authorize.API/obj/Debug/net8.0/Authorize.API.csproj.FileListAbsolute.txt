@@ -170,3 +170,4 @@ C:\Users\zelen\Барышев\Lab12\backend\Authorize\Authorize.API\bin\Debug\ne
 C:\Users\zelen\Барышев\Lab12\backend\Authorize\Authorize.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\zelen\Барышев\Lab12\backend\Authorize\Authorize.API\bin\Debug\net8.0\Greenhouse.Contracts.dll
 C:\Users\zelen\Барышев\Lab12\backend\Authorize\Authorize.API\bin\Debug\net8.0\Greenhouse.Contracts.pdb
+C:\Users\zelen\Барышев\Lab12\backend\Authorize\Authorize.API\obj\Debug\net8.0\Authorize.API.sourcelink.json

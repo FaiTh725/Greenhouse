@@ -10,3 +10,4 @@ C:\Users\zelen\Барышев\Lab12\backend\Authorize\Authorize.Domain\obj\Debug
 C:\Users\zelen\Барышев\Lab12\backend\Authorize\Authorize.Domain\obj\Debug\net8.0\refint\Authorize.Domain.dll
 C:\Users\zelen\Барышев\Lab12\backend\Authorize\Authorize.Domain\obj\Debug\net8.0\Authorize.Domain.pdb
 C:\Users\zelen\Барышев\Lab12\backend\Authorize\Authorize.Domain\obj\Debug\net8.0\ref\Authorize.Domain.dll
+C:\Users\zelen\Барышев\Lab12\backend\Authorize\Authorize.Domain\obj\Debug\net8.0\Authorize.Domain.sourcelink.json

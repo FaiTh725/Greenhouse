@@ -12,6 +12,8 @@ namespace Authorize.Domain.Repositories
 
         Task<User?> GetActiveUser(string email);
 
+        Task<IEnumerable<User>> GetUnconfirmedUsers();
+
         Task ActiveUsers(List<User> users);
     }
 }

@@ -17,3 +17,4 @@ C:\Users\zelen\Барышев\Lab12\backend\Authorize\Authorize.Dal\obj\Debug\ne
 C:\Users\zelen\Барышев\Lab12\backend\Authorize\Authorize.Dal\obj\Debug\net8.0\ref\Authorize.Dal.dll
 C:\Users\zelen\Барышев\Lab12\backend\Authorize\Authorize.Dal\bin\Debug\net8.0\Application.Shared.dll
 C:\Users\zelen\Барышев\Lab12\backend\Authorize\Authorize.Dal\bin\Debug\net8.0\Application.Shared.pdb
+C:\Users\zelen\Барышев\Lab12\backend\Authorize\Authorize.Dal\obj\Debug\net8.0\Authorize.Dal.sourcelink.json

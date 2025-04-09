@@ -3,6 +3,40 @@ version: "3.8"
 name: "GreenHouse"
 
 services:
+  kibana_service:
+    image: kibana:8.16.6
+    container_name: kibana_greenhouse
+    ports:
+      - "5601:5601"
+    environment:
+      - ELASTICSEARCH_HOSTS=http://elasticsearch_service:9200
+      - ELASTICSEARCH_USERNAME=FaITh
+      - ELASTICSEARCH_PASSWORD=goblinusik111
+      - xpack.security.enabled=false
+    networks:
+      - elasticsearch_net
+    depends_on: 
+      - elasticsearch_service
+
+  elasticsearch_service:
+    image: elasticsearch:8.16.6
+    container_name: elasticsearch_grenhouse
+    ports:
+      - "9200:9200"
+    environment:
+      - discovery.type=single-node
+      - xpack.security.enabled=false
+      - xpack.security.http.ssl.enabled=false
+    volumes:
+      - elasticsearch_volume:/usr/share/elasticsearch/data
+    networks:
+      - elasticsearch_net
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:9200 || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
   report_api_greenhouse:
     image: greenhouse_report
     container_name: report_api_greenhouse
@@ -44,6 +78,9 @@ services:
       - JwtSettings__Audience=Audience
       - ConnectionStrings__RedisConnection=redis_cache:6379,password=goblinusik111W
       - ConnectionStrings__NpgConnection=Host=pstgres_db;Username=faith725;Password=goblinusik111W;Database=Greenhouse;Port=5432
+      - ElasticSearchConf__Uri=http://elasticsearch_service:9200
+      - ElasticSearchConf__User=FaITh
+      - ElasticSearchConf__Password=goblinusik111
       - ClientUrl=http://localhost:5173
       - ASPNETCORE_URLS=https://+:5202;http://+:5201
       - ASPNETCORE_Kestrel__Certificates__Default__Password=goblinusik111W
@@ -51,10 +88,16 @@ services:
     volumes:
       - .\certs:/https:ro
     depends_on:
-      - rabbitmq
-      - pstgres_db
-      - redis_cache
+      elasticsearch_service:
+        condition: service_healthy
+      rabbitmq:
+        condition: service_started
+      pstgres_db:
+        condition: service_started
+      redis_cache:
+        condition: service_started
     networks:
+      - elasticsearch_net
       - rabbitmq_net
       - greenhouse_db_net
       - redis_cache_net
@@ -159,8 +202,12 @@ networks:
     driver: bridge
   rabbitmq_net:
     driver: bridge
+  elasticsearch_net:
+    driver: bridge
 
 volumes:
   greenhouse_db_volume:
+    driver: local
+  elasticsearch_volume:
     driver: local
 

@@ -157,6 +157,28 @@
         }
       }
     },
+    "/api/Greenhouse/GetGreenhouseCompletedEvents": {
+      "get": {
+        "tags": [
+          "Greenhouse"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int64"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Greenhouse/GetGreenhouseEventsByDay": {
       "get": {
         "tags": [
