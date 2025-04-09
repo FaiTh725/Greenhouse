@@ -53,3 +53,10 @@
   font-weight: 400;
   margin-top: 15px;
 }
+
+.Signin__Main_ModalContent {
+  padding: 40px 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

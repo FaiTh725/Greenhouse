@@ -6,6 +6,7 @@ import PrimaryLink from "../../components/links/PrimaryLink/PrimaryLink";
 import styles from "./Signin.module.css";
 import { useEffect, useState } from "react";
 import axios from "axios";
+import PopupModal from "../../components/PopupModal/PopupModal";
 
 const Signin = () => {
   const auth = useAuth();
@@ -22,6 +23,8 @@ const Signin = () => {
     passwordError: "",
     confirmPasswordError: ""
   });
+  const [ message, setMessage ] = useState("");
+  const [ modalIsOpen, setModalIsOpen ] = useState(false);
 
   const handleChangeForm = (e) => {
     const key = e.target.name;
@@ -100,8 +103,13 @@ const Signin = () => {
         withCredentials: true
       });
 
-      auth.login({...response.data});
-      navigate("/");
+      setModalIsOpen(true);
+      setMessage("Please Wait When Admin Comfirm Your Account");
+
+      setTimeout(() => {
+        setModalIsOpen(false);
+        setMessage("");
+      }, 3000);
     }
     catch(error)
     {
@@ -126,7 +134,6 @@ const Signin = () => {
 
   useEffect(() => {
     const email = localStorage.getItem("user_email");
-    console.log(email);
     if(email)
     {
       setForm(prev => ({
@@ -140,6 +147,11 @@ const Signin = () => {
 
   return (
     <div className={styles.Signin__Main}>
+      <PopupModal isActive={modalIsOpen} setIsActive={setModalIsOpen}>
+        <div className={styles.Signin__Main_ModalContent}>
+          <p>{message}</p>
+        </div>
+      </PopupModal>
       <div className={styles.Signin__Wrapper}>
         <p className={styles.Signin__PageName}>Sign Up</p>
         <h1 className={styles.Signin__HeaderText}>Create new account</h1>

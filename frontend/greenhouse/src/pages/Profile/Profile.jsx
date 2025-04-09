@@ -3,10 +3,14 @@ import Header from "../../components/Header/Header";
 import styles from "./Profile.module.css"
 import axios from "axios";
 import EventCart from "../../components/EventCart/EventCart";
+import { useAuth } from "../../components/Auth/AuthContext";
+import ConfirmUsers from "../../components/ConfirmUsers/ConfirmUsers";
 
 const Profile = () => {
   const [ employeEvents, setEmployeEvents ] = useState([]);
   
+  const auth = useAuth();
+
   const handleFetchEmployeEvents = async (signal) => {
     try
     { 
@@ -53,6 +57,12 @@ const Profile = () => {
       <div className={styles.Profile__Welcome}>
         <p>Here is you progress</p>
       </div>
+      <div className={styles.Profile__AdminConfrimUsers}>
+        {
+          auth.user && auth.user.role == "Admin" &&
+          <ConfirmUsers/>
+        }
+      </div>
       <div className={styles.Profile__Events}>
         <div className={`${styles.Profile__CompletedEvents} ${styles.Profile__EventSection}`}>
           <p className={styles.Profile__EventSectionHeader}>Complited Events</p>
@@ -77,11 +87,6 @@ const Profile = () => {
               )
             }
           </div>
-          {/* <div className={styles.Profile__PaginationSection}>
-            <div className={styles.Profile__PaginationWrapper}>
-              <Pagination/>
-            </div>
-          </div> */}
         </div>
         <div className={`${styles.Profile__PlannedEvents} ${styles.Profile__EventSection}`}>
           <p className={styles.Profile__EventSectionHeader}>Planned Events</p>

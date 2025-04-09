@@ -1,0 +1,44 @@
+.ConfirmUserCart__Main {
+  width: 100%;
+  height: 100%;
+  font-family: var(--font-family);
+  font-weight: 600;
+  font-size: 18px;
+  color: var(--font-color-shadow);
+}
+
+.ConfirmUserCart__Wrapper {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding: 3px 10px;
+  border-radius: 5px;
+  border: 1px solid var(--font-color-shadow);
+  transition: all .3s;
+}
+
+.ConfirmUserCart__Wrapper:hover {
+  border: 1px solid var(--primary-color);
+  transform: translate(-3px, 0px);
+  box-shadow: 3px 0px var(--primary-color);
+}
+
+.ConfirmUserCart__Email {
+  width: 300px;
+}
+
+.ConfirmUserCart__Name {
+  width: 200px;
+}
+
+.ConfirmUserCart__Btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  margin-left: 20px;
+}
+
+.ConfirmUserCart__Btn + .ConfirmUserCart__Btn {
+  margin-left: 15px;
+}
