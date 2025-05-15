@@ -9,3 +9,4 @@ C:\Users\zelen\Барышев\Lab12\backend\Notification\Notification.Contracts\
 C:\Users\zelen\Барышев\Lab12\backend\Notification\Notification.Contracts\obj\Debug\net8.0\refint\Notification.Contracts.dll
 C:\Users\zelen\Барышев\Lab12\backend\Notification\Notification.Contracts\obj\Debug\net8.0\Notification.Contracts.pdb
 C:\Users\zelen\Барышев\Lab12\backend\Notification\Notification.Contracts\obj\Debug\net8.0\ref\Notification.Contracts.dll
+C:\Users\zelen\Барышев\Lab12\backend\Notification\Notification.Contracts\obj\Debug\net8.0\Notification.Contracts.sourcelink.json

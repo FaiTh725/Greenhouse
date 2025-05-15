@@ -17,3 +17,4 @@ C:\Users\zelen\Барышев\Lab12\backend\Notification\Notification.Infastruct
 C:\Users\zelen\Барышев\Lab12\backend\Notification\Notification.Infastructure\obj\Debug\net8.0\Notification.Infastructure.pdb
 C:\Users\zelen\Барышев\Lab12\backend\Notification\Notification.Infastructure\obj\Debug\net8.0\ref\Notification.Infastructure.dll
 C:\Users\zelen\Барышев\Lab12\backend\Notification\Notification.Infastructure\bin\Debug\net8.0\Application.Shared.pdb
+C:\Users\zelen\Барышев\Lab12\backend\Notification\Notification.Infastructure\obj\Debug\net8.0\Notification.Infastructure.sourcelink.json

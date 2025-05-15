@@ -13,3 +13,4 @@ C:\Users\zelen\Барышев\Lab12\backend\Notification\Notification.Applicatio
 C:\Users\zelen\Барышев\Lab12\backend\Notification\Notification.Application\bin\Debug\net8.0\Notification.Contracts.pdb
 C:\Users\zelen\Барышев\Lab12\backend\Notification\Notification.Application\obj\Debug\net8.0\Notification.Application.csproj.AssemblyReference.cache
 C:\Users\zelen\Барышев\Lab12\backend\Notification\Notification.Application\obj\Debug\net8.0\Notifica.1404CAA7.Up2Date
+C:\Users\zelen\Барышев\Lab12\backend\Notification\Notification.Application\obj\Debug\net8.0\Notification.Application.sourcelink.json

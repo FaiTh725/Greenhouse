@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Application.Shared\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9BCF30F7-938F-41B2-BCF7-B269BCEF916E}|Application.Shared.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\application.shared\\exceptions\\appconfigurationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BCF30F7-938F-41B2-BCF7-B269BCEF916E}|Application.Shared.csproj|solutionrelative:exceptions\\appconfigurationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9BCF30F7-938F-41B2-BCF7-B269BCEF916E}|Application.Shared.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\application.shared\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BCF30F7-938F-41B2-BCF7-B269BCEF916E}|Application.Shared.csproj|solutionrelative:exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9BCF30F7-938F-41B2-BCF7-B269BCEF916E}|Application.Shared.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\application.shared\\exceptions\\forbiddenaccessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BCF30F7-938F-41B2-BCF7-B269BCEF916E}|Application.Shared.csproj|solutionrelative:exceptions\\forbiddenaccessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BCF30F7-938F-41B2-BCF7-B269BCEF916E}|Application.Shared.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\application.shared\\exceptions\\appconfigurationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BCF30F7-938F-41B2-BCF7-B269BCEF916E}|Application.Shared.csproj|solutionrelative:exceptions\\appconfigurationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BCF30F7-938F-41B2-BCF7-B269BCEF916E}|Application.Shared.csproj|c:\\users\\zelen\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\lab12\\backend\\application.shared\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -57,8 +57,12 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ForbiddenAccessException.cs",
               "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Application.Shared\\Exceptions\\ForbiddenAccessException.cs",
               "RelativeDocumentMoniker": "Exceptions\\ForbiddenAccessException.cs",
@@ -70,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "AppConfigurationException.cs",
               "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Application.Shared\\Exceptions\\AppConfigurationException.cs",
               "RelativeDocumentMoniker": "Exceptions\\AppConfigurationException.cs",
@@ -78,11 +82,12 @@
               "RelativeToolTip": "Exceptions\\AppConfigurationException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T21:52:50.358Z"
+              "WhenOpened": "2025-03-24T21:52:50.358Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "InternalServerApiException.cs",
               "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Application.Shared\\Exceptions\\InternalServerApiException.cs",
               "RelativeDocumentMoniker": "Exceptions\\InternalServerApiException.cs",
@@ -94,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "NotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\zelen\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\\Lab12\\backend\\Application.Shared\\Exceptions\\NotFoundException.cs",
               "RelativeDocumentMoniker": "Exceptions\\NotFoundException.cs",
